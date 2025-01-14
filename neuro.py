@@ -19,6 +19,27 @@ def load_data_from_folder(folder, label):
                 labels.append(label)
     return texts, labels
 
+
+def test_model(trainer):
+    # Оценка модели
+    outputs = trainer.predict(test_dataset)
+    predictions = torch.argmax(torch.tensor(outputs.predictions), dim=1)
+    labels = torch.tensor(test_labels.tolist())
+    # Вычисление F1-меры
+    f1 = f1_score(labels, predictions, average='weighted')
+    print("F1 Score:", f1)
+    # Вычисление матрицы ошибок
+    cm = confusion_matrix(labels, predictions)
+    print("Confusion Matrix:\n", cm)
+    # Визуализация матрицы ошибок
+    plt.figure(figsize=(10, 7))
+    sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', xticklabels=['Not Correct', 'Correct'],
+                yticklabels=['Not Correct', 'Correct'])
+    plt.ylabel('Actual')
+    plt.xlabel('Predicted')
+    plt.title('Confusion Matrix')
+    plt.show()
+
 # Загрузка данных
 correct_texts, correct_labels = load_data_from_folder('correct', 1)  # класс 1
 not_correct_texts, not_correct_labels = load_data_from_folder('not_correct', 0)  # класс 2
@@ -81,30 +102,13 @@ trainer = Trainer(
     eval_dataset=test_dataset
 )
 
+test_model(trainer)
+
 # Обучение модели
 trainer.train()
 
 # Оценка модели
 # trainer.evaluate()
 
-# Оценка модели
-outputs = trainer.predict(test_dataset)
-predictions = torch.argmax(torch.tensor(outputs.predictions), dim=1)
-labels = torch.tensor(test_labels.tolist())
 
-# Вычисление F1-меры
-f1 = f1_score(labels, predictions, average='weighted')
-print("F1 Score:", f1)
-
-# Вычисление матрицы ошибок
-cm = confusion_matrix(labels, predictions)
-print("Confusion Matrix:\n", cm)
-
-# Визуализация матрицы ошибок
-plt.figure(figsize=(10, 7))
-sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', xticklabels=['Not Correct', 'Correct'], yticklabels=['Not Correct', 'Correct'])
-plt.ylabel('Actual')
-plt.xlabel('Predicted')
-
-plt.title('Confusion Matrix')
-plt.show()
+test_model(trainer)
