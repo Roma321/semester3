@@ -1,0 +1,1 @@
+IBM Lotus Domino Document Manager   в феврале 2009 объявлено о прекращении разработки продукта, клиентам предложена миграция на IBM Lotus Quickr в связке с одним из двух продуктов IBM Content Manager Collaboration Edition или IBM FileNet Content Manager Collaboration Edition.

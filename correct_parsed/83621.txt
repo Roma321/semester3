@@ -1,0 +1,1 @@
+NetBeans IDE  свободная интегрированная среда разработки для всех платформ Java  Java ME, Java SE и Java EE.

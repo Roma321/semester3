@@ -1,0 +1,3 @@
+COLLECTIONSCORING___1127
+
+Collectionscoring  система скоринга на стадии работы с невозвращенными кредитами.

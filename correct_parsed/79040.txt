@@ -1,0 +1,1 @@
+KMail позволяет импортировать почтовые базы и настройки из других клиентов электронной почты, включая Mozilla Thunderbird, Netscape, Microsoft Outlook и Outlook Express, The Bat! и других.

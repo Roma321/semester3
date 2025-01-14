@@ -1,0 +1,3 @@
+Information Hyperlinked over Proteins___611
+
+Information Hyperlinked over Proteins   сервер, предоставляющий генетическую информацию из базы данных PubMed, организуя её в виде сети.

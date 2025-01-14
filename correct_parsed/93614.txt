@@ -1,0 +1,1 @@
+Verilog был создан Phil Moorby и Prabhu Goel зимой 19831984 годов в фирме Automated Integrated Design Systems  как язык моделирования аппаратуры.

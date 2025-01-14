@@ -1,0 +1,1 @@
+OpenVPN SSL  VPN с открытым исходным кодом, поддерживает режимы PPP, bridge, pointtopoint, multiclient server.

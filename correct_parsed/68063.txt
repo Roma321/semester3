@@ -1,0 +1,3 @@
+High Definition Audio___2503
+
+Intel High Definition Audio   спецификация для аппаратных аудиокодеков, разработанная и опубликованная компанией Intel в 2004 году.

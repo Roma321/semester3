@@ -1,0 +1,1 @@
+STS1  Synchronous Transport Signal level 1  синхронный транспортный сигнал уровня 1, канал STS1 обозначение электрических каналов в сетях SONET.

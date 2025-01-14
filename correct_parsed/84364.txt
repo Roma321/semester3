@@ -1,0 +1,1 @@
+NTDS  Windows NT Directory Service  Служба каталогов Windows NT, служба каталогов NTDS основана на взаимодействии доменов.

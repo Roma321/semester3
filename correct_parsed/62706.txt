@@ -1,0 +1,1 @@
+default directory  текущий каталог, каталог по умолчанию синоним  current directory см. также default, directory.

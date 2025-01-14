@@ -1,0 +1,1 @@
+projectM  проект, созданный на основе кода MilkDrop, использующий OpenGL, доступен для платформы Linux и Windows, имеет плагины для XMMS, Winamp, foobar2000 и VLC.

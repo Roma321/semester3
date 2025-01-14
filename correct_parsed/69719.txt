@@ -1,0 +1,1 @@
+IBM Notes Client Standard  полная версия клиента IBM Notes на базе Eclipse с поддержкой технологий Composite Applications и XPages.

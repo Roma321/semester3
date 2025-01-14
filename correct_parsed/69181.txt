@@ -1,0 +1,3 @@
+HyperSPARC___1474
+
+hyperSPARC   микропроцессор, использующий систему команд SPARC V8, разработанный компанией Ross Technology для Cypress Semiconductor.

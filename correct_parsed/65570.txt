@@ -1,0 +1,1 @@
+flash EEPROM  Electrically Erasable Programmable ReadOnly Memory  программируемое постоянное запоминающее устройство с групповым  электрическим стиранием, флэшППЗУ, флэшпамять.

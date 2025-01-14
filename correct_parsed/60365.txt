@@ -1,0 +1,1 @@
+Calligra Flow полностью интегрирован в Calligra Suite и может быть, к примеру, встроен в Calligra Words.

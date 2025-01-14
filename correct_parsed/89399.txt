@@ -1,0 +1,1 @@
+SIGGRAPH  The Special Interest Group for Computer Graphics  группа SIGGRAPH специальная группа в составе ASM, объединяющая специалистов по компьютерной графике.

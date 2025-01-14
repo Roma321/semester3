@@ -1,0 +1,1 @@
+RoboCop   игра по одноимённому фильму, разработанная Data East и Nihon Bussan для платформ Amiga, Amstrad CPC, Apple II, Atari ST, Commodore 64, MSDOS, MSX, NES, TRS80 CoCo, ZX Spectrum.

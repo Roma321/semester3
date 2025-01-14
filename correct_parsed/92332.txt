@@ -1,0 +1,1 @@
+Tor Browser  официальная портативная сборка от The Tor Project, Inc, объединяющая Tor с Firefox ESR . Выпускаются версии для ОС Windows, macOS, Linux и Android.

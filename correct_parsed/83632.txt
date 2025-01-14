@@ -1,0 +1,3 @@
+.NET DiscUtils___810
+
+.NET DiscUtils  open sourceбиблиотека .NET Framework для доступа и работы с образами виртуальных дисков.

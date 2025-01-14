@@ -1,0 +1,1 @@
+Isls  Infinite State Logic Simulator   система моделирования логики с бесконечным числом состояний.

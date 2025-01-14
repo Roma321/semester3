@@ -1,0 +1,3 @@
+Intel Parallel Inspector___1946
+
+Intel Parallel Inspector  анализатор корректности с возможностью проверки работы с памятью и потоками.

@@ -1,0 +1,1 @@
+Properties to XML conversion  программа для преобразования файлов .properties в формат XML properties и наоборот.

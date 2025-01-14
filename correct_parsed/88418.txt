@@ -1,0 +1,1 @@
+Rutracker.org реализован на BitTorrentдвижке TorrentPier, который, в свою очередь, основан на модифицированном phpBB.

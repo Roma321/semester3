@@ -1,0 +1,3 @@
+Microsoft Forefront Threat Management Gateway___6633
+
+Microsoft Forefront Threat Management Gateway Forefront TMG ранее известный как Microsoft Internet Security and Acceleration Server   проксисервер для защиты сети от атак извне, а также контроля интернеттрафика, который позволяет сотрудникам компании безопасно и эффективно пользоваться ресурсами Интернета, не беспокоясь о вредоносных программах и других угрозах.

@@ -1,0 +1,3 @@
+IBM Cluster___5590
+
+IBM Cluster  выпущенный в 1984 году программноаппаратный комплекс, позволявший объединять в сеть компьютеры IBM PC, IBM PCXT, IBM Portable PC и IBM PCjr.

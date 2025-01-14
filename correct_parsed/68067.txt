@@ -1,0 +1,3 @@
+High Dynamic Range Rendering___1431
+
+High Dynamic Range Rendering, часто сокращается до High Dynamic Range  графический эффект, применяемый в играх для наиболее выразительного рендеринга изображения при контрастном освещении сцены.

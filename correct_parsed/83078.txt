@@ -1,0 +1,1 @@
+MQ работает на всех основных платформах zOS , IBM i , Transaction Processing Facility, UNIX , HP NonStop, OpenVMS, Linux и Microsoft Windows.

@@ -1,0 +1,1 @@
+MS MPI работает в любой физической сети, включая Gigabit Ethernet, Infiniband и Myrinet, для которых существует драйвер Winsock Direct.

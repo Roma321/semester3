@@ -1,0 +1,1 @@
+HSSI  HighSpeed Serial Interface  высокоскоростной последовательный интерфейс, интерфейс HSSI был предложен фирмами Cisco Systems и T3plus Networking для синхронной связи оборудования DTE с DCE на скоростях до 52 Мбитс.

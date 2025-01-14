@@ -1,0 +1,1 @@
+Total Commander  файловый менеджер с закрытым исходным кодом, работающий на платформах Microsoft Windows и Android.

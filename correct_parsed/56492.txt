@@ -1,0 +1,3 @@
+ADO.NET Data Services___2194
+
+ADO.NET Data Services   платформа для Microsoft Data Services, нацеленная, в первую очередь, на использование таких современных технологий, как Ajax и Silverlight.

@@ -1,0 +1,1 @@
+xVM, первоначально Sun xVM hypervisor и Sun xVM Server  продукт виртуализации на основе кода гипервизора Xen для OpenSolaris, с мая 2009 года разработка xVM Server ведётся в рамках проекта XenOpenSolaris.

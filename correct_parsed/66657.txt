@@ -1,0 +1,1 @@
+GIMP и GTK первоначально были разработаны для X Window System, работающей в операционной системе, подобной Unix, но с тех пор он был перенесён в Microsoft Windows, OS2, Mac OS X и SkyOS.

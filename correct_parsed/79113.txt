@@ -1,0 +1,1 @@
+Knockout.js   свободный JavaScript каркас вебприложений, реализующий ModelViewViewModel шаблон c образцами.

@@ -1,0 +1,1 @@
+Sun Java Desktop System является дополнением к Java Enterprise System в части предоставления полнофункционального рабочего места.

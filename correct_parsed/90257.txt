@@ -1,0 +1,1 @@
+SRT  Source Routing Transparent bridging  прозрачная маршрутизация от источника см. также source routing, transparent bridging.

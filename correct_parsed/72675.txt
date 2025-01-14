@@ -1,0 +1,1 @@
+Internet Explorer 11 был доступен для Windows Server 2012 и Windows Embedded 8 Standard, единственной редакции Windows 8 которая всё ещё поддерживается в апреле 2019 года.

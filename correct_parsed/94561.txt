@@ -1,0 +1,1 @@
+Windows 7 A2DP поддерживался в предварительных версиях Windows 7. Windows 7 Release Candidate и финальные релизы не поддерживают драйвер класса Bluetoothaudio.

@@ -1,0 +1,1 @@
+EBCDIC  Extended Binary Coded Decimal Interchange Code  Расширенный двоичнодесятичный код обмена информацией, код EBCDIC  8разрядный код, первоначально введённый IBM для мэйнфреймов Series360.

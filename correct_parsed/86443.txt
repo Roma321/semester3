@@ -1,0 +1,1 @@
+Power Systems возникла после объединения серверных платформ IBM System i и System p и работает под управлением любой из ОС IBM i , IBM AIX или Linux.

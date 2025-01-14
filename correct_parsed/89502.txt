@@ -1,0 +1,1 @@
+Single Wire Protocol  дополняет назначение контактов SIMкарт прямым интерфейсом на модуль Near Field Communication.

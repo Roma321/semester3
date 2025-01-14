@@ -1,0 +1,1 @@
+LDAP  Lightweight Directory Access Protocol  Облегченный  протокол доступа к  каталогам, протокол LDAP промышленный стандарт для доступа к каталогам через Internet без установления соединения, разработан University of Washington, поддержан Netscape и ещё 40 фирмами.

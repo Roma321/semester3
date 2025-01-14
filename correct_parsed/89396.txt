@@ -1,0 +1,1 @@
+Sigarch  The Special Interest Group for Computer Architecture  группа SIGARCH специальная группа в составе ASM, объединяющая специалистов по архитектуре компьютеров .Англорусский словарь компьютерных терминов

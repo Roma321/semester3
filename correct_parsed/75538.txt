@@ -1,0 +1,3 @@
+Java Persistence API___2452
+
+Java Persistence API   спецификация API Java EE, предоставляет возможность сохранять в удобном виде Javaобъекты в базе данных.

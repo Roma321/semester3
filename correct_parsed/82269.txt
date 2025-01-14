@@ -1,0 +1,1 @@
+Microsoft Windows Services for UNIX  обеспечивает полное соответствие POSIX для некоторых продуктов Microsoft Windows.

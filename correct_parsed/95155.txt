@@ -1,0 +1,3 @@
+XPInstall___887
+
+XPI или также XPInstall   формат данных Mozilla Foundation для инсталляции расширений ПО.

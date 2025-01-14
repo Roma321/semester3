@@ -1,0 +1,1 @@
+Advanced Feature Connector  соединитель для  новых средств, интерфейс AFC 2. Automatic Frequency Control  автоматический контроль частоты3.

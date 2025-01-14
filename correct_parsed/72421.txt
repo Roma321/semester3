@@ -1,0 +1,3 @@
+Intel Threading Building Blocks___5781
+
+Intel Threading Building Blocks   кроссплатформенная библиотека шаблонов C, разработанная компанией Intel для параллельного программирования.

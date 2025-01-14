@@ -1,0 +1,1 @@
+Firefox был выделен из Mozilla Application Suite, код которого был создан с нуля в Mozilla Foundation вместо кода Netscape Navigator 5, часть которого была выпущена под свободной лицензией Mozilla Public License после поражения в войне браузеров.

@@ -1,0 +1,1 @@
+Oracle JDeveloper интегрирована с Oracle ADF  Java EEкаркасом для создания коммерческих приложений на Java.

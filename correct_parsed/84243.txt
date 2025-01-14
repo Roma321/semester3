@@ -1,0 +1,1 @@
+Normaly, computers on the network listen to the packet broadcasts and simply take the packets addressed to them.  3. передача, покрывающая большую площадь см. также DBS4. глаг. рассылать посылать информацию в любой форме более чем одному получателю.

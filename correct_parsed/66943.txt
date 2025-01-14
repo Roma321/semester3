@@ -1,0 +1,1 @@
+Good old Integer To Ascii conversion itoa  Еще одна достаточно быстрая реализация itoa для различных типов данных, плюс некоторая обертка в стиле boost в виде специализаций шаблона boostlexical_cast  .

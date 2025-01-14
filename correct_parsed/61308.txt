@@ -1,0 +1,1 @@
+Clover r4945 стала первой версией Clover с поддержкой macOS Catalina, начиная с первой бетаверсии macOS Catalina.

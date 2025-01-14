@@ -1,0 +1,1 @@
+Java ME разработана под руководством Sun Microsystems и является заменой похожей технологии  PersonalJava.

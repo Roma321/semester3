@@ -1,0 +1,1 @@
+isochronous  изохронный в телекоммуникации  передача с однородным тактированием, например isochronous video and voice traffic.

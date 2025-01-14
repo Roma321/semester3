@@ -1,0 +1,1 @@
+Macss  multiplyandaccumulate operations per second   операций умножениянакопления в секунду показатель быстродействия ЦПС.

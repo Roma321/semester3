@@ -1,0 +1,1 @@
+CLI  1. Call Level Interface  API уровня вызовов SQL разработанная группой SAG спецификация метода формирования запросов к БД на языке SQL из приложений 2. Command Line Interface  интерфейс командной строки см. также command line3.

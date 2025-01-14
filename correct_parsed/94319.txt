@@ -1,0 +1,1 @@
+WebSocketsTest.org Архивная копия от 7 октября 2010 на Wayback Machine сайт, проверяющий работу WebSockets и Comet в вашем браузе

@@ -1,0 +1,1 @@
+backup device  устройство  для архивации, резервного копирования см. также backup server, backup system, file backup, streamer.

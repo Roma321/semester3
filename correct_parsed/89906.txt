@@ -1,0 +1,1 @@
+SOH 1. Start Of Header  начало заголовка в коде ASCII  мнемоника символа 1h 2. Section Overhead служебная информация секции.

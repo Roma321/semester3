@@ -1,0 +1,1 @@
+Microsoft Exchange Server, до версии 2003, при установке дополняет стандартный инструмент архивации Windows  NTBackup  поддержкой хранилищ Exchange.

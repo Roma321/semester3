@@ -1,0 +1,1 @@
+Extended Capabilities Port   порт с расширенными возможностями, порт ECP спецификация, разработанная Microsoft и HP.

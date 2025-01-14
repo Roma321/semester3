@@ -1,0 +1,1 @@
+Amazon Elasticsearch Service обеспечивает облачный доступ к стеку из поисковой системы Elasticsearch и Kibana.

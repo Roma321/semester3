@@ -1,0 +1,1 @@
+OLE4DM  OLE for Design and Modeling  OLE для конструирования и моделирования расширение стандарта OLE, разработанное корпорацией Intergraph в 1995 г.

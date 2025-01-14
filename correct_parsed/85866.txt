@@ -1,0 +1,1 @@
+PHIGS  Programmers Hierarchical Interactive Graphics System  стандарт PHIGS стандарт ISOIEC 9592 на трёхмерную графику.

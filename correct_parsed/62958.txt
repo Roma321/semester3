@@ -1,0 +1,1 @@
+Developement and Implementation of an MPEG1 Layer III Decoder on x86 and TMS320C6711 platforms  Презентация Power Point с описанием процесса декодирования

@@ -1,0 +1,1 @@
+Novell базировал свой сетевой протокол на XNS и создал свои стандарты IDP и SPP, которые дали имена IPX  и SPX . Файловые и печатные сервисы работали по протоколу NCP  над IPX, как и протоколы Routing Information Protocol  и Service Advertising Protocol .

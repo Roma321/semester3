@@ -1,0 +1,1 @@
+zRouter  дистрибутив направленный на работу в роутерах Asus, Buffalo, DLink, NorthQ, Soekris, TPLink, Ubiquiti

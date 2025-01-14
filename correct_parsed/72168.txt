@@ -1,0 +1,1 @@
+Installable File System  механизм монтируемых файловых систем в операционных системах OS2 и Windows NT.

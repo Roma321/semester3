@@ -1,0 +1,1 @@
+VoiceXML  Voice Extensible Markup Language  язык VoiceXML язык, разрабатываемый организацией VoiceXML Forum, созданной в марте 1999 г. и объединяющей 44 фирмы, среди которых Ericsson, Siemens, France Telecom, Novell, Samsung Electronics, Sun Microsystems, IBM, ATT, Lucent Technologies и Motorola.

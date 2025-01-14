@@ -1,0 +1,3 @@
+Audio Video Interleave___3332
+
+Audio Video Interleave   RIFFмедиаконтейнер, впервые использованный Microsoft в 1992 году в пакете Video for Windows.

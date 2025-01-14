@@ -1,0 +1,1 @@
+Hdtp  Handheld Device Transport Protocol  транспортный протокол для карманных  устройств, протокол HDTP.

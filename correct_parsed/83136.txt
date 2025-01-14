@@ -1,0 +1,1 @@
+MSR  1. Multiply Step Register  регистр управления умножением, регистр MSR 2. Microsoft Research  исследовательский центр MSR корпоративный НИИ корпорации Microsoft, созданный в 1991 г.

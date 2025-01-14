@@ -1,0 +1,1 @@
+Kaspersky Password Manager шифрует данные, используя алгоритм симметричного шифрования, основанный на стандарте Advanced Encryption Standard . Ключ высчитывается из вашего мастерпароля на основании PasswordBased Key Derivation Function 2 .

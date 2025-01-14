@@ -1,0 +1,1 @@
+Virtual Serial Port  доступ к последовательному порту через сеть таких приложений как Windows Server 2003 Emergency Management Services и сессии TTY.

@@ -1,0 +1,1 @@
+NAS и SAN в одном СХД с поддержкой NearlineSAS, SSDHDD дисков и с одним контроллером Семейство EonStor GS

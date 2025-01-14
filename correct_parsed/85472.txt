@@ -1,0 +1,1 @@
+patternsearch  с поиском по образцу  например, patternsearch system  система, с поиском по образцу.

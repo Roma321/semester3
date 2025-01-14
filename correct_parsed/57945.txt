@@ -1,0 +1,1 @@
+ATA  Advanced Technology Attachment, AT Attachment  интерфейс ATA ссылка на интерфейс и протокол, впервые использованный для доступа к жестким дискам в компьютерах IBM АТ.

@@ -1,0 +1,1 @@
+Free Compiler Wins Nehalem Race by 2x Архивная копия от 3 августа 2010 на Wayback Machine   сравнительный тест производительности OpenSolaris  Sun Studio и Linux  GCC на процессорах Nehal

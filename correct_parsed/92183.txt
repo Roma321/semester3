@@ -1,0 +1,1 @@
+Tizen 2.2.1 используется в устройстве для разработчиков Samsung RDPQ, смартфоне Samsung Z SMZ910F, а также в умных часах Samsung Galaxy Gear, Gear 2 и Gear 2 Neo.

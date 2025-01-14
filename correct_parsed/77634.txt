@@ -1,0 +1,1 @@
+KDE Plasma 4 был выпущен как часть KDE Software Compilation 4 и заменил Kicker, KDesktop, и SuperKaramba, который формировал рабочий стол в более ранних выпусках KDE.

@@ -1,0 +1,1 @@
+h, min, s, ms, us и ns для создания соответствующих временных интервалов stdchronoduration.

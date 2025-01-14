@@ -1,0 +1,1 @@
+SVG Viewer Extension for Windows Explorer  расширение для проводника Windows, позволяющее просматривать в нём SVGфайлы в виде эскизов.

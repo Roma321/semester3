@@ -1,0 +1,1 @@
+WEP  Wireless Encription Protocol  протокол шифрования в беспроводной связи, протокол WEP другое название  Wired Equivalent Privacy.

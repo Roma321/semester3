@@ -1,0 +1,1 @@
+InterBase работает в операционных системах Microsoft Windows, macOS, Linux, Solaris, а также iOS и Android.

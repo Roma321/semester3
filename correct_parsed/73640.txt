@@ -1,0 +1,1 @@
+IRIX 3.x была основана на UNIX System V Release 3 с расширениями 4.3BSD и использовала оконную систему 4Sight на базе NeWS и IRIS GL.

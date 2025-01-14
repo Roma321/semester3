@@ -1,0 +1,1 @@
+Я <span class="token green" title="">серьёзно училась   <span class="token green" title=""> в школе и все мои учительницы мне ставили очень хорошие оценки

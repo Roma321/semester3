@@ -1,0 +1,3 @@
+Java Architecture for XML Binding___3005
+
+Java Architecture for XML Binding  позволяет Java разработчикам ставить в соответствие Java классы и XML представления.

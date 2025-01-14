@@ -1,0 +1,3 @@
+Celestia___7601
+
+Celestia   свободная трёхмерная астрономическая программа для платформ Microsoft Windows, Linux и Mac OS X. Создана Крисом Лорелом и доступна на условиях GNU General Public License.

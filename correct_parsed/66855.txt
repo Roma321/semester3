@@ -1,0 +1,1 @@
+GNU Lesser General Public License   это ослабленная версия GPL, предназначенная для некоторых библиотек ПО.

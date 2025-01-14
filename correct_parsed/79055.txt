@@ -1,0 +1,1 @@
+KMIP является открытым протоколом, который имеет поддержку со стороны многих крупных технологических компаний, таких как HewlettPackard, Brocade Systems Communications, Inc., Cisco Systems, Inc. , IBM и Oracle Corporation.

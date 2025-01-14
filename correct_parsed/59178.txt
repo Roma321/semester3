@@ -1,0 +1,1 @@
+BladeCenter H  платформа, выпускаемая с 2006 года BladeCenter с поддержкой коммутации на основе Fibre Channel.

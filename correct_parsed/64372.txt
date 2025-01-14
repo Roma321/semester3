@@ -1,0 +1,3 @@
+Encrypting File System___9224
+
+Encrypting File System   система шифрования данных, реализующая шифрование на уровне файлов в операционных системах Microsoft Windows NT , за исключением домашних версий Windows XP Home Edition, Windows Vista Basic, Windows Vista Home Premium, Windows 7 Starter , Windows 10 Pro, Enterprise, and Education editions, Windows Server 2016, Windows Server 2019.

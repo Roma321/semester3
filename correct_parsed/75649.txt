@@ -1,0 +1,3 @@
+JBoss Seam___882
+
+JBoss Seam  основанный на JavaServer Faces  каркас, для разработки Вебприложений.

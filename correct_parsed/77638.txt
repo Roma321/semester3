@@ -1,0 +1,3 @@
+KDE Platform 4___3924
+
+KDE Platform 4  коллекция библиотек and фреймворков от KDE, являющаяся технологической основой коллекции программ KDE4, распространяемой по лицензии GNU Lesser General Public License . KDE Platform 4 это последователь KDElibs и предшественник KDE Frameworks.

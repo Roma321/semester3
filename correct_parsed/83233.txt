@@ -1,0 +1,1 @@
+multitier application приложение, построенное по многозвенной модели многозвенное приложение см. также threetier model, twotier model.

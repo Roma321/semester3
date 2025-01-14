@@ -1,0 +1,3 @@
+ISIS ___1600
+
+ISIS  операционная система, созданная Intel в 1976 году для собственной среды разработки Intel Microprocessor Development System.

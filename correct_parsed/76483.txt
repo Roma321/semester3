@@ -1,0 +1,1 @@
+JSP  Java Server Pages  серверные страницы Java, спецификация JSP расширение Java Servlet API для генерации динамических Webстраниц на Webсервере.

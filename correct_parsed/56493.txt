@@ -1,0 +1,3 @@
+ADO.NET Entity Framework___6867
+
+ADO.NET Entity Framework   объектноориентированная технология доступа к данным, является objectrelational mapping  решением для .NET Framework от Microsoft.

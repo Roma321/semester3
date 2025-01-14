@@ -1,0 +1,1 @@
+SSP  1. SmallScale Parallel system   система с ограниченным, частичным параллелизмом , с частично параллельной архитектурой см. также MP system, MPP, parallel computer, SMP2.

@@ -1,0 +1,1 @@
+functor  функциональный элемент, функтор элемент, выполняющий в языке программирования определенную функцию . Пример A functor in Visual Prolog is just a name that identifies a kind of compound data object and holds its arguments together  функтор в языке Visual Prolog просто имя, идентифицирующее тип составного объекта данных и хранящее вместе его аргументы.

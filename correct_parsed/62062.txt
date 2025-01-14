@@ -1,0 +1,1 @@
+Cygwin, не являясь операционной системой, предоставляет Unixподобную среду в Microsoft Windows также существуют сервисы Microsoft Windows для Unix.

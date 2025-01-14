@@ -1,0 +1,1 @@
+Mtops  Millions of Theoretical Operations Per Second  миллионов теоретических операций в секунду способ измерения производительности  компьютера.

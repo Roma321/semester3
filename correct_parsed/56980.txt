@@ -1,0 +1,1 @@
+AIX  Advanced Interactive Executive версия UNIX, развиваемая IBM для компьютеров PS2, RS6000 и PowerPC.

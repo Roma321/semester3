@@ -1,0 +1,3 @@
+Java Desktop System___4288
+
+Sun Java Desktop System   среда рабочего стола для операционных систем Solaris и OpenSolaris компании Sun.

@@ -1,0 +1,1 @@
+Indy v.10 была портирована на Free Pascal и свободно работает под управлением на Microsoft Windows, FreeBSD, Linux и Darwin.

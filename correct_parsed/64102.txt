@@ -1,0 +1,1 @@
+EDO DRAM   тип DRAM, созданный для замены FPM DRAM ввиду неэффективности FPM DRAM при работе с процессорами Intel Pentium.

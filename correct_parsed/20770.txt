@@ -1,0 +1,1 @@
+20 августа 1998 года на 1й конференции AES был объявлен список из 15 кандидатов CAST256, CRYPTON, DEAL, DFC, E2, FROG, HPC, LOKI97, MAGENTA, MARS, RC6, Rijndael, SAFER, Serpent, Twofish.

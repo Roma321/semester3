@@ -1,0 +1,1 @@
+VCN  1. Virtual Cluster Number  виртуальный номер кластера в NTFS  порядковый номер кластера в файле 2. Virtual Circuit Number  номер виртуального канала.

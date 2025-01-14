@@ -1,0 +1,1 @@
+ATCA  Advanced Telecom Computing Architecture  шина ATCA высокопроизводительная версия CompactPCI, оптимизированная в соответствии с требованиями операторов связи.

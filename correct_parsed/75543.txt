@@ -1,0 +1,3 @@
+Java Runtime Environment___854
+
+Java Runtime Environment   минимальная  реализация виртуальной машины, необходимая для исполнения Javaприложений.

@@ -1,0 +1,1 @@
+VoiceXML   язык разметки, разработан Форумом VoiceXML , объединяющем более 40 крупных фирм, включая такие, как ATT, Ericsson, France Telecom, IBM, Novell, Lucent Technologies, Motorola, Samsung Electronics, Siemens, Sun Microsystems, для облегчения передачи по Интернету и телефону голосовой информации.

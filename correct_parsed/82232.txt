@@ -1,0 +1,1 @@
+Microsoft Document Image Writer  виртуальный принтер, печатающий в формат Microsoft Document Imaging Format.

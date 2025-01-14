@@ -1,0 +1,1 @@
+FCL  .NET Framework Class Library  библиотека базовых классов, библиотека FCL используется в языках платформы Microsoft .NET.

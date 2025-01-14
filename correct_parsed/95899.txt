@@ -1,0 +1,1 @@
+Аббревиатура составлена из слов Strength , Perception , Endurance , Charisma , Intelligence , Agility  и Luck .

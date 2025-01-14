@@ -1,0 +1,1 @@
+rulebased  на основе правил, управляемый с помощью правил пример Rulebased systems are a standard area of concern to computer scientists.

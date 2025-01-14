@@ -1,0 +1,1 @@
+VisualAge уходит со сцены после появления таких инструментов, как IBM WebSphere Application Developer, Eclipse, NetBeans.

@@ -1,0 +1,1 @@
+InfiniBand появился в 1999 году при объединении двух конкурировавших проектов Future IO и Next Generation IO.

@@ -1,0 +1,1 @@
+SIGPLAN  The Special Interest Group on Programming Languages  группа SIGPLAN специальная группа в составе ASM, объединяющая специалистов по языкам программирования .Англорусский словарь компьютерных терминов

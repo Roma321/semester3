@@ -1,0 +1,1 @@
+XZ используется или поддерживается для сжатия дистрибутивов ОС или пакетов с ПО в проектах Debian , Fedora, ArchLinux, FreeBSD Gentoo, GNOME.

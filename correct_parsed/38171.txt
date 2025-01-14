@@ -1,0 +1,1 @@
+32битные архитектуры, используемые во встраиваемых системах 68k, ColdFire, IA32, ARM, MIPS, PowerPC и Infineon TriCore .

@@ -1,0 +1,1 @@
+manual  1. руководство описание справочник учебник пример The manuals contained a basic version of the system calls that was good enough to help me get by.  в документации нашлось описание базовой версии системных вызовов  для начала мне этого было достаточно.

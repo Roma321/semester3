@@ -1,0 +1,1 @@
+OLE control containers  контейнеры элементов управления OLE в мае 1996 г. Microsoft переименовала их в ActiveX.

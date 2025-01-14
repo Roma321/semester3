@@ -1,0 +1,1 @@
+VBA  Visual Basic for Applications  Visual Basic для приложений пакет корпорации Microsoft, позволяющий создавать приложения, выполняемые в среде Microsoft Office.

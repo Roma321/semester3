@@ -1,0 +1,3 @@
+Hybrid Memory Cube___3529
+
+Hybrid Memory Cube   перспективный тип компьютерной оперативной памяти, разработанный в начале 2010х годов консорциумом компаний в составе Samsung, Micron Technology, ARM, HewlettPackard, Microsoft, Altera, Xilinx.

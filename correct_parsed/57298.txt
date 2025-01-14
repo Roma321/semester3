@@ -1,0 +1,1 @@
+AmigaOS 4 работает на оборудовании AmigaOne, Commodore Amiga systems с ускорительной платой Phase5 PowerUp, системах Pegasos II и Sam440Sam460.

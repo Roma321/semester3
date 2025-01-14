@@ -1,0 +1,1 @@
+SPICE Simulation Program with Integrated Circuit Emphasis программа моделирования с ориентацией на интегральные схемы, программа SPICE .Англорусский словарь компьютерных терминов

@@ -1,0 +1,3 @@
+Advanced Audio Coding___6298
+
+Advanced Audio Coding   собственнический  формат аудиофайла с потерями.

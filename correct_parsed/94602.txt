@@ -1,0 +1,3 @@
+Windows Driver Model___4360
+
+Windows Driver Model   фреймворк для драйверов устройств , был введен в Windows 98 и Windows 2000 для замены устаревшего VxD, который использовался в старых версиях Windows, таких как Windows 95 и Windows 3.1.

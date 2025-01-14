@@ -1,0 +1,1 @@
+prescaler   делитель частоты пример A programmable timercounter with 8bit prescaler provides periodic interrupt generation  программируемый таймерсчетчик с 8разрядным делителем частоты обеспечивает периодическую генерацию прерываний.

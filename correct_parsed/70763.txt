@@ -1,0 +1,1 @@
+IIOP  Internet InterORB Protocol протокол, определяющий передачу сообщений между объектами по TCPIP.

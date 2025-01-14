@@ -1,0 +1,1 @@
+RFC 6012  Datagram Transport Layer Security  Transport Mapping for Syslog, October 2010 Механизм доставки для Syslog, обеспечивающий безопасность датаграмм на транспортном уровне 

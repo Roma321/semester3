@@ -1,0 +1,1 @@
+SAR  1. Segmentation and Reassemble  подуровень сегментации и сборки в сетях ATM  один из двух подуровней AAL.

@@ -1,0 +1,1 @@
+PCL 5   Printer Control Language  язык управления принтерами, язык PCL 5 язык описания страниц, разработанный компанией HewlettPackard в 1990 г. для печатающих устройств LaserJet III.

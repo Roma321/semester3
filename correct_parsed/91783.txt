@@ -1,0 +1,1 @@
+The PCI Security Standards Council  это открытый глобальный форум, запущенный в 2006 году, который отвечает за разработку, управление, обучение и безопасность PCI Security Standards, включая требования собственно Data Security Standard , Payment Application Data Security Standard  и PIN Transaction Security .

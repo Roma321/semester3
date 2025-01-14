@@ -1,0 +1,1 @@
+2021 г. DataSpell  IDE для Data Science, объединяющая в себе интерактивные возможности Jupyterноутбуков и умный редактор PyCharm для работы с Python и R.

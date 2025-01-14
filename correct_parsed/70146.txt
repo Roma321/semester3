@@ -1,0 +1,1 @@
+Idera создаёт инструменты для поддержки и дополнения возможностей Microsoft SQL Server, включая SQL Diagnostic Manager, SQL Doctor и SQL Elements.

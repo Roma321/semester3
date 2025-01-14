@@ -1,0 +1,1 @@
+Kali Linux имеет более 600 предустановленных программ тестирования проникновения, в том числе Armitage , nmap , Wireshark , взломщик паролей John the Ripper, Aircrackng , Burp Suite и сканер безопасности вебприложений OWASP ZAP.

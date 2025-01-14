@@ -1,0 +1,1 @@
+NAPLPS  North American PresentationLevel Protocol Syntax  стандарт NAPLPS, протокол NAPLPS протокол для сжатия видеотекста и телетекста, стандарт ANSI.

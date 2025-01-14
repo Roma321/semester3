@@ -1,0 +1,1 @@
+Java Simple Serial Connector Архивная копия от 10 марта 2011 на Wayback Machine  библиотека для работы с последовательными портами из Java.

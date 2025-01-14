@@ -1,0 +1,1 @@
+InDy доступна для Delphi, C Builder и Kylix и распространяется под двойной лицензией Indy Modified BSD License и Indy MPL License.

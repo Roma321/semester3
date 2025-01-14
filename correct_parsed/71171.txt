@@ -1,0 +1,1 @@
+ImageMagick может использоваться с языками Perl, C, C, Python, Ruby, PHP, Node.js, Pascal, Java, Delphi, в скриптах командной оболочки или самостоятельно.

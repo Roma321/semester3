@@ -1,0 +1,1 @@
+inSSIDer это сканер WiFi сетей с графическим интерфейсом для Microsoft Windows и macOS, разработанный компанией MetaGeek, LLC.

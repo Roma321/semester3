@@ -1,0 +1,1 @@
+SPEC System Performance Evaluation Cooperative  консорциум по оценке  быстродействия   машин, группа SPEC организация, занимающаяся стандартизацией тестов.

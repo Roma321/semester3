@@ -1,0 +1,1 @@
+Beehive, пришедший на смену Collaboration Suite  средство обеспечения совместной работы, основанное на Oracle Database и Fusion Middleware.

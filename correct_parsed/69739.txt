@@ -1,0 +1,3 @@
+IBM Scalable POWERparallel___4309
+
+Scalable POWERparallel или RS6000 SP или SP суперкомпьютерная массовопараллельная платформа с распределенной памятью компании IBM.

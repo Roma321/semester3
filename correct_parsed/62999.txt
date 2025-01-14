@@ -1,0 +1,1 @@
+DGX1 стал первым комплексным решением для глубокого обучения и поставлялся с пакетом специализированного ПО, в том числе платформой Deep Learning GPU Training System  и библиотекой CUDA Deep Neural Network library .

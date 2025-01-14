@@ -1,0 +1,1 @@
+essential model сущностная  модель , не связанная с физической реализацией см. также conceptual model, model.

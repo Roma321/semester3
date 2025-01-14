@@ -1,0 +1,1 @@
+cacheable mode  режим с занесением данных в кэшпамять, режим кэширования см. также cacheablewriteprotect mode, noncacheable mode, noncacheable serialized mode.

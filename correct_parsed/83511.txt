@@ -1,0 +1,1 @@
+NDPS  NetWare Distributed Print Services  служба  распределённой печати в среде NetWare технология, разработанная фирмой Novell и реализуемая ею совместно с корпорацией Xerox.

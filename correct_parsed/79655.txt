@@ -1,0 +1,1 @@
+Kross встроенные сценарии для Cприложений, с поддержкой Ruby, Python, JavaScript, QtScript, Falcon и Ja

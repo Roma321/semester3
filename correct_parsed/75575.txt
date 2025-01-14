@@ -1,0 +1,3 @@
+Java Web Start___4090
+
+Java Web Start   технология компании Sun Microsystems, позволяющая запускать приложения на Java из браузера.

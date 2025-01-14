@@ -1,0 +1,1 @@
+OneDrive является приложением, идущим в поставке вместе с Windows 8, 8.1, 10 и 11 На данный момент OneDrive работает на Windows, macOS, IOS, Windows Phone, Android и позволяет загружать файлы прямо через Проводник Windows.

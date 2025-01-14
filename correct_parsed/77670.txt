@@ -1,0 +1,1 @@
+KeePassX поддерживает алгоритмы Advanced Encryption Standard и Twofish для шифрования паролей своих баз данных.

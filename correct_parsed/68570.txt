@@ -1,0 +1,1 @@
+httpsrosettacode.orgwikiThe_ISAAC_Cipher  реализация алгоритма на 19 разных языках программирования

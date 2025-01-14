@@ -1,0 +1,1 @@
+IOS  Internetworking Operating System  операционная система IOS ПЗУрезидентная ОС реального времени, разработанная компанией Cisco Systems для маршрутизаторов.

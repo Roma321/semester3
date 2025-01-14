@@ -1,0 +1,1 @@
+Keynote Remote  приложение iOS, с помощью которого можно контролировать выступление, используя iPhone, iPod Touch или iPad через WiFiсеть или bluetoothсоединение.

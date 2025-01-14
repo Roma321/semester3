@@ -1,0 +1,1 @@
+crossapplication  между приложениями, от одного приложения другому см. также application, metaapplication.

@@ -1,0 +1,1 @@
+Intel Iris Graphics и Intel Iris Pro Graphics  это серия IGP, представленная в 2013 году с некоторыми моделями процессоров Haswell в качестве высокопроизводительных версий HD Graphics.

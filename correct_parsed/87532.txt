@@ -1,0 +1,1 @@
+readonly  только для чтения неизменяемый см. также attribute, data attribute, directory attribute, file attribute, writeprotected.

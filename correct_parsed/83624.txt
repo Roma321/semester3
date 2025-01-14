@@ -1,0 +1,1 @@
+.NET Bio изначально была выпущена Microsoft Research под названием Microsoft Biology Foundation , а затем перевыпущена некоммерческой организацией Outercurve Foundation в качестве свободно распространяемого ПО с открытым исходным кодом под лицензией Apache License 2.0.

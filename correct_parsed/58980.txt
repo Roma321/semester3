@@ -1,0 +1,3 @@
+BigDog___3862
+
+BigDog  четырёхногий шагающий робот с адаптивным управлением, созданный в 2005 году фирмой Boston Dynamics совместно с FosterMiller, Лабораторией реактивного движения и Harvard University Concord Field Station.

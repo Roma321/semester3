@@ -1,0 +1,1 @@
+Core 2 Duo на данный момент поддерживают материнские платы со следующими чипсетами Intel 865PE, Intel 945PPLG, Intel 955X, Intel 975X, Intel PGQ965, Intel Q963, Intel 946GZPL ATi Radeon Xpress 200, ATi RD600 и RS600 nForce 4 SLI Intel Edition, nForce 570590 Intel Edition and nForce 680i650i VIA PT880PT880 Ultra, VIA PT890, VIA PM880 и PM890 SiS662.

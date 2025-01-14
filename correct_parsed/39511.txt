@@ -1,0 +1,3 @@
+3DSync___1241
+
+3DSync  это инструмент для редактирования 3D CADданных, выпущенный компанией Siemens PLM Software 18 декабря 2012 г. в составе линейки продуктов Velocity Series наряду с СADCAMCAEсистемами Solid Edge, Femap, CAM Express.

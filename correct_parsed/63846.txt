@@ -1,0 +1,1 @@
+DVD в формате PAL должны содержать хотя бы одну звуковую дорожку MPEG Layer 2, LPCM или Dolby Digital audio.

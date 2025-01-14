@@ -1,0 +1,1 @@
+Alternative dialog Find  Replace for Writer   расширение для улучшения параметров поиска и замены текста в Writer.

@@ -1,0 +1,1 @@
+JavaStation1 , кодовое название Mr. Coffee основана на процессоре MicroSPARC IIe с частотой 110 МГц.

@@ -1,0 +1,1 @@
+Doxia  фреймворк для генерации контента из форматов Almost Plain Text , Confluence, DocBook, FML , LaTeX, Rich Text Format , TWiki, XDoc и XHTML.

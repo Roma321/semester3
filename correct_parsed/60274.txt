@@ -1,0 +1,1 @@
+cacheablewriteprotect mode  режим хранения данных  в кэшпамяти с защитой от записи  см. также cacheable mode, noncacheable mode, noncacheable serialized mode.

@@ -1,0 +1,1 @@
+Spmm Single Port, Multiple Memories один порт  много модулей  памяти однопортовая память с перекрестной шиной см. также MPMM, MPSM, SPSM, XPXM.

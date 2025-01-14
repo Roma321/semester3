@@ -1,0 +1,3 @@
+IBM Director___3288
+
+IBM Director  это система типа element management system  иногда используется альтернативный термин workgroup management system , впервые представленная корпорацией IBM в 1993 г. под названием NetFinity Manager.

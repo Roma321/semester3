@@ -1,0 +1,1 @@
+Tizen 2.3 используется в устройстве для разработчиков Samsung RDPQ, смартфонах Samsung Z SMZ910F, Samsung Z1 SMZ130HDS и умных часах Samsung Gear S.

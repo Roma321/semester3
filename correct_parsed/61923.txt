@@ -1,0 +1,1 @@
+CryEngine 2  один из первых движков, которые используют Direct3D10 , однако он также поддерживает DirectX 9 как на Windows Vista, так и на Windows XP.

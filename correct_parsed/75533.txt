@@ -1,0 +1,3 @@
+Java Naming and Directory Interface___1815
+
+Java Naming and Directory Interface   это набор Java API, организованный в виде службы каталогов, который позволяет Javaклиентам открывать и просматривать данные и объекты по их именам.

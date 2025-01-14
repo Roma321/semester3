@@ -1,0 +1,1 @@
+componentizing  превращение в компоненту , компонентизация пример The point is that we're componentizing every device driver in this system as well .Англорусский словарь компьютерных терминов

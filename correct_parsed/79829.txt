@@ -1,0 +1,1 @@
+KWrite  текстовый редактор для среды рабочего стола KDE, распространяемый согласно GNU Lesser General Public License.

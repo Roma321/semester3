@@ -1,0 +1,1 @@
+WBEM  WebBased Enterprise Management  управление предприятием на основе Webтехнологий, инициатива WBEM инициатива, с которой выступили корпорации Cisco, Compaq, Intel, Microsoft и BMC Software в 1998 г.

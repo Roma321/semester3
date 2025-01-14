@@ -1,0 +1,1 @@
+SpiderMonkey также используется в качестве движка JavaScript для Yahoo! Widgets  и UOX3, эмулятора Ultima Online.

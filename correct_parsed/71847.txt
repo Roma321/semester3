@@ -1,0 +1,1 @@
+Informix бьётся со своим главным оппонентом Oracle на поприще OR расширением возможностей их флагмана Informix Dynamic Server с помощью Universal Data Option.

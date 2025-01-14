@@ -1,0 +1,1 @@
+KEGG BRITE представлена в виде иерархической структуры различных данных, например, геномных и химических KEGG orthology  и Reaction classification .

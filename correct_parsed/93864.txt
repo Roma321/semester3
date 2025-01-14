@@ -1,0 +1,1 @@
+Visual Basic Scripting Edition  скриптовый язык, усеченная версия Visual Basic используется для автоматизации администрирования систем Windows, а также для создания страниц ASP и сценариев для Internet Explorer.

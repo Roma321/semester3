@@ -1,0 +1,3 @@
+IE Tab___906
+
+IE Tab  расширение Firefox, созданное для просмотра сайтов, которые могут быть корректно отображены только в Internet Explorer, например, использующих элементы ActiveX или расширения стандарта HTML от Microsoft, в окне браузеров Google Chrome, Mozilla Firefox, Flock, Mozilla Suite и SeaMonkey.

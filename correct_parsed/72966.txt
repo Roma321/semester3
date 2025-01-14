@@ -1,0 +1,1 @@
+Inventor может обмениваться данными с такими приложениями как CATIA V5, UGS, SolidWorks, ProENGINEER, Ansys.

@@ -1,0 +1,1 @@
+PageMaker поддерживает текстовые форматы Excel, HTML, графику CorelDraw, AutoCAD DXF, CGM, QuickTime обеспечивает экспорт в формат PDF.

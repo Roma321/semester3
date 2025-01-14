@@ -1,0 +1,1 @@
+ISOIEC 27018 Information technology  Security techniques  Code of practice for protection of personally identifiable information  in public clouds acting as PII processors   Информационные технологии  методы безопасности  Свод правил для защиты идентифицирующей персональной информации  в открытых облаках, действующих как процессоры PII  от 28 ноября 2014 года ISOIEC 27018

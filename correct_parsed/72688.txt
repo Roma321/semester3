@@ -1,0 +1,1 @@
+Internet Explorer Mobile 11, последняя поддерживаемая версия, основана на настольной версии Internet Explorer 11 и поставляется с Windows Phone 8.1.

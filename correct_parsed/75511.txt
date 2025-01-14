@@ -1,0 +1,3 @@
+Java Cryptography Architecture___478
+
+Java Cryptography Architecture   это криптографический фреймворк, входящий в состав платформы Java.

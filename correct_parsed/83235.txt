@@ -1,0 +1,1 @@
+MUMPS  Massachusetts General Hospital Utility Multiprogramming System  язык MUMPS ЯВУ, разработан в 1966 г. для медицинских информационных систем.

@@ -1,0 +1,1 @@
+OPC  OLE for Process Control  OLE для управления процессами  спецификация комитета OPC Foundation  при поддержке Microsoft.

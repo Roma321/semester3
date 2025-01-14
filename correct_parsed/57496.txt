@@ -1,0 +1,1 @@
+Apache Spatial Information System читает и форматирует WKT 1 и 2 для систем координат и операций с ними

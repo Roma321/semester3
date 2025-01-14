@@ -1,0 +1,1 @@
+RFC 5425  Transport Layer Security  Transport Mapping for Syslog, March 2009 Механизм доставки для Syslog, обеспечивающий безопасность на транспортном уровне 

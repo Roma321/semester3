@@ -1,0 +1,1 @@
+RES  Reserved for Token Ring and Fiber Distributed Data Interface , резервное поле для протоколов TR и FDDI.

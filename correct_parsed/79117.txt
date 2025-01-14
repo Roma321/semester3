@@ -1,0 +1,1 @@
+Knopflerfish  является побочным проектом Gatespace, который был одним из членовучредителей OSGi Alliance.

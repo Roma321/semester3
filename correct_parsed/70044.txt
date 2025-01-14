@@ -1,0 +1,1 @@
+ICS  1. Internet Chess Server  сервер ICS сервер, позволяющий пользователям играть в шахматы через Internet.

@@ -1,0 +1,1 @@
+SEPP  1. Secure Electronic Payments Protocol  протокол безопасных электронных платежей спецификация по обеспечению безопасности электронной торговли, разработанная MasterCard International Inc., IBM, Netscape Communications Corp., GTE Corp., CyberCash Inc. и поддерживаемая RSA2.

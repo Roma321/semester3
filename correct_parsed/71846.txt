@@ -1,0 +1,1 @@
+Informix Universal Server   комбинация движка V7 OnLine с поддержкой OR mapping и DataBlade модулей от Illustra.

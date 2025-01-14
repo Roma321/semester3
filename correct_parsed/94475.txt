@@ -1,0 +1,1 @@
+WiFi Alliance использует IEEE 802.11u в стандарте WiFi CERTIFIED Passpoint, ранее известном как Hotspot 2.0.

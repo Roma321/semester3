@@ -1,0 +1,1 @@
+JSPстраницы загружаются на сервере и управляются из структуры специального Java server packet, который называется Jakarta EE Web Application.

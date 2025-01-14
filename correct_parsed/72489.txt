@@ -1,0 +1,3 @@
+Interactive Unix___1339
+
+INTERACTIVE UNIX System V386  порт операционной системы UNIX System V на процессоры Intel x86.

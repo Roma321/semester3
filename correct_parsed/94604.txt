@@ -1,0 +1,3 @@
+Windows Embedded Automotive___1973
+
+Windows Embedded Automotive   это встраиваемая операционная система, основанная на Windows CE для использования в компьютерных системах в автомобилях.

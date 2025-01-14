@@ -1,0 +1,1 @@
+ADempiere является бесплатной системой Free Software с открытым исходным кодом и распространяется под лицензией GNU General Public License.

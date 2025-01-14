@@ -1,0 +1,1 @@
+EPIC  Explicitly Parallel Instruction Computing  вычисления с заданным параллелизмом команд, технология EPIC технология, используемая в архитектуре IA64 набора команд 64разрядного процессора Merced, разрабатываемого корпорациями Intel и HewlettPackard.

@@ -1,0 +1,3 @@
+InfraRecorder___2563
+
+InfraRecorder  компьютерная программа для записи CD и DVD, распространяемая под лицензией GNU GPLv3.

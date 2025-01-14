@@ -1,0 +1,1 @@
+MIME  Multipurpose Internet Mail Extensions  многоцелевые расширения почтовой службы в Internet, стандарт MIME почтовый стандарт Internet, изложен в RFC 1344, 1521, 1522, 1563, 1740 и 1741.

@@ -1,0 +1,1 @@
+littleendien format   формат с порядком следования байтов начиная с младшего см. также bigendien format, byteordering.

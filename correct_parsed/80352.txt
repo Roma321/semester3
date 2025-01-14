@@ -1,0 +1,1 @@
+Liberty BASIC был создан Карлом Ганделом на Smalltalk и выпущен его компанией Shoptalk Systems в 1992 году.

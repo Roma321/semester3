@@ -1,0 +1,3 @@
+65C02___4368
+
+65C02  микропроцессор, разработанный фирмой Western Design Center  на основе архитектуры MOS Technology 6502 и впоследствии выпускавшийся также рядом других фирм, таких как NCR, GTE, Rockwell International, SynerTek и Sanyo.

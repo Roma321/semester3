@@ -1,0 +1,1 @@
+Roadrunner работает под управлением Red Hat Enterprise Linux совместно с Fedora и управляется по xCAT.

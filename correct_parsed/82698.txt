@@ -1,0 +1,1 @@
+MNP  Microcom Networking Protocol  протокол MNP набор протоколов передачи сообщений по телефонным сетям.

@@ -1,0 +1,3 @@
+Advanced Disc Filing System___1944
+
+Advanced Disc Filing System   файловая система, использовавшаяся на компьютерах Acorn Computers, в операционной системе RISC OS и её потомках.

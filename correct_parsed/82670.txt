@@ -1,0 +1,1 @@
+MMDF  Multi Memorandum Distribution Facility технология пересылки электронной почты в среде ОС UNIX для сетевых систем.

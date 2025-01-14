@@ -1,0 +1,1 @@
+BPU  Branch Prediction Unit  устройство прогнозирования  ветвлений  в процессорах Pentium, Pentium Pro и их аналогах.

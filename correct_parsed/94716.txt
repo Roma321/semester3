@@ -1,0 +1,1 @@
+WMI  Windows Management Instrumentation  инструментарий управления Windows, интерфейс WMI разработан корпорацией Microsoft в качестве ответа на интерфейс DMI.

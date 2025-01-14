@@ -1,0 +1,3 @@
+Java Transaction API___1335
+
+Java Transaction API   API, для поддержки транзакций, входящее в стандарт серверной платформы для языка программирования Java  Jakarta EE.

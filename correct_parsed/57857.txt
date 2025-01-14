@@ -1,0 +1,1 @@
+ASN.1  Abstract Syntax Notation One  язык ASN.1 язык для описания абстрактного синтаксиса данных, используемый OSI.

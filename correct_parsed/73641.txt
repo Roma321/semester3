@@ -1,0 +1,3 @@
+IRIX Interactive Desktop___809
+
+IRIX Interactive Desktop   среда рабочего стола по умолчанию на рабочих станциях Silicon Graphics с операционной системой IRIX.

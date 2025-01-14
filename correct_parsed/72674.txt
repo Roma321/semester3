@@ -1,0 +1,3 @@
+Internet Experiment Note___1167
+
+Internet Experiment Notes   серия технических заметок, создаваемая на протяжении раннего этапа развития TCPIP и Интернета.

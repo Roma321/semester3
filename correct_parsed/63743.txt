@@ -1,0 +1,1 @@
+dualbuffered  с двумя переключающимися буферами, двойная буферизация  см. также buffer, double buffering.

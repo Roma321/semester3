@@ -1,0 +1,1 @@
+sysadmin  1. см. system administrator2. имя, используемое при регистрации в UNIXсистеме см. также logon.

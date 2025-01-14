@@ -1,0 +1,3 @@
+Humanoid Robotics Project___2206
+
+Humanoid Robotics Project   проект по разработке человекоподобных роботовпомощников.

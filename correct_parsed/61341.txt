@@ -1,0 +1,1 @@
+Cnaps  Connected Network of Adaptive Processors  сеть адаптивных процессоров ИС фирмы Adaptive Solutions для построения нейронных сетей.

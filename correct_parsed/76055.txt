@@ -1,0 +1,1 @@
+Jitsi породил несколько родственных проектов, таких как Jitsi Videobridge Selective Forwarding Unit  и Jitsi Meet, приложений для видеоконференцсвязи и вебконференций.

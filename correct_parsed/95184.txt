@@ -1,0 +1,1 @@
+XVGA  Extended Video Graphics Array  стандарт XVGA стандарт на дисплеи с разрешением 1024 х 768 точек с 256 цветами.

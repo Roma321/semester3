@@ -1,0 +1,1 @@
+Я закончила еврейскую школу и <span class="token green" title="">потом   <span class="token green" title=""> поступила в университет

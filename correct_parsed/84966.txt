@@ -1,0 +1,1 @@
+OS2 имеет UNIXподобный стек TCPIP , с привычными для пользователей UNIXподобных систем утилитами и демонами, такими как arp, ifconfig, netstat, ppp, telnetd, sendmail и т. д.

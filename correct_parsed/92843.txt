@@ -1,0 +1,3 @@
+Type library___10353
+
+TLB   иерархическое хранилище информации о возможностях ActiveXсервера в OLE Automation.

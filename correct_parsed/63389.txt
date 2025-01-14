@@ -1,0 +1,1 @@
+DOD40 48mA Digital OpenDrain output buffer  цифровой выходной буфер с открытым истоком на ток 48 мА

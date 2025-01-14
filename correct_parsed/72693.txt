@@ -1,0 +1,1 @@
+Internet Explorer использует компонентную архитектуру на технологическом стандарте Component Object Model.

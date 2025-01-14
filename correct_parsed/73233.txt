@@ -1,0 +1,1 @@
+IPC  1. InterProcessor Communications  межпроцессорная связь2. см. interprocess communication3. instructions per cycle  команд за такт число машинных команд, выполняемых процессором за один машинный такт.

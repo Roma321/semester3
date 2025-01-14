@@ -1,0 +1,1 @@
+Internet Explorer для UNIX предлагает некоторые функции, которых нет на версии Windows, например, Emacs.

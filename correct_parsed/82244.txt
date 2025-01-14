@@ -1,0 +1,3 @@
+Microsoft Internet Explorer Mobile___3712
+
+Internet Explorer Mobile    мобильный веббраузер, разработанный компанией Microsoft на движке Trident.

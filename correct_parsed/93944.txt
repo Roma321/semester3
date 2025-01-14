@@ -1,0 +1,1 @@
+voicedriven  управляемый голосом, с речевым интерфейсом например, voicedriven applications  приложения с речевым интерфейсом .voice identification  см. speaker identification.

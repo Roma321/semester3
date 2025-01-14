@@ -1,0 +1,1 @@
+IZArc полностью поддерживает форматы сжатия 7ZIP, BH, BZA, CAB, JAR, LHA, YZ1, ZIP, а также следующие типы файлов на открытие и разархивирование A, ACE, ARC, ARJ, B64, BIN, BZ2, C2D, CDI, CPIO, DEB, ENC, GCA, GZ, GZA, HA, IMG, ISO, LIB, LZH, MBF, MDF, MIM, NRG, PAK, PDI, PK3, RAR, RPM, TAR, TAZ, TBZ, TGZ, TZ, UUE, WAR, XXE, Z, ZOO.

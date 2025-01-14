@@ -1,0 +1,1 @@
+IDCT   1. Indirect Discrete Cosine Transform  обратное дискретное косинусное преобразование используется при декодировании сжатых данных 2. inverse discrete cosine transform  инверсное дискретное косинусное преобразование.

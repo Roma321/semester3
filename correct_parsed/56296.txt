@@ -1,0 +1,1 @@
+Active Directory  службы каталогов корпорации Microsoft для операционных систем семейства Windows Server.

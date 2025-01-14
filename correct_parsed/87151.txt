@@ -1,0 +1,1 @@
+QPSK  Quadrature Phase Shift Keying  модуляция QPSK применяется, в частности, для беспроводной связи.

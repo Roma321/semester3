@@ -1,0 +1,1 @@
+NTV  Network Virtual Terminal  сетевой виртуальный терминал, протокол NTV определён в протоколе Telnet.

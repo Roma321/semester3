@@ -1,0 +1,3 @@
+Kirin 970___678
+
+Kirin 970  восьмиядерный ARMчипсет, выпущенный китайской компанией HiSilicon Technologies в 2017 году для смартфонов Huawei и Honor.

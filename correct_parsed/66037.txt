@@ -1,0 +1,1 @@
+Fscem  Futurebus Small Computer Expandability Module bus   шина для подключения модулей расширения ресурсов малых компьютеров с шиной Futurebus, шина FSCEM.

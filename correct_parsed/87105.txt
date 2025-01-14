@@ -1,0 +1,1 @@
+Pсостояния также известны как SpeedStep в процессорах Intel, как PowerNow! или Cool'n'Quiet в процессорах AMD, и как LongHaul в процессорах VIA.

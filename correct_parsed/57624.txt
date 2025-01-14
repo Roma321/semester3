@@ -1,0 +1,3 @@
+APPLICATIONSCORING___3844
+
+Applicationscoring   система оценки кредитоспособности заемщиков для получения кредита.

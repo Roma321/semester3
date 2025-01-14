@@ -1,0 +1,3 @@
+Intel GMA___6405
+
+Intel Graphics Media Accelerator, Intel GMA  линейка графических контроллеров компании Intel, интегрированных в чипсеты Intel для материнских плат компьютеров .

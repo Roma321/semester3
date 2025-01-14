@@ -1,0 +1,1 @@
+RFC 5675  Mapping Simple Network Management Protocol  Notifications to SYSLOG Messages, October 2009 Механизм трансляции уведомлений протокола простого управления сетями  в сообщения Syslog

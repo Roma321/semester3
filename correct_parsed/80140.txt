@@ -1,0 +1,1 @@
+LDAPLDAPS SSL  протокол обмена данными между Exchange Server и Службой Каталогов Microsoft Windows Active Directory.

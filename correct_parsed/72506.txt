@@ -1,0 +1,3 @@
+Interchange File Format___3217
+
+Interchange File Format   формат файлаконтейнера, разработанный в 1985 году корпорацией Electronic Arts совместно с Commodore для новой платформы Amiga с целью упростить обмен данными между ПО различных производителей.

@@ -1,0 +1,1 @@
+LAPB  LinkAccess Protocol Balanced  сбалансированный протокол доступа к звену связи, протокол LAPB см. также HDLC, SDLC.

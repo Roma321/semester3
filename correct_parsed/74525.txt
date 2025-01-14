@@ -1,0 +1,1 @@
+ITG  1. Interactive Test Generator  интерактивный генератор тестов, пакет ITG 2. Integrated Telemarketing Gateway  интегральный шлюз для телемаркетинга, система ITG  см. также RSL.Англорусский словарь компьютерных терминов

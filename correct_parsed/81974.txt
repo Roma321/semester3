@@ -1,0 +1,1 @@
+megastream service  передача данных по сети ISDN со скоростью 2 Мбитс см. также kilostream service.

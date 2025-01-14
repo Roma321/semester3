@@ -1,0 +1,3 @@
+Microsoft Message Passing Interface___1028
+
+Microsoft Message Passing Interface   реализация спецификации программного интерфейса MPI2 от компании Microsoft применяемая в Windows HPC Server 2008 для организации сетевого взаимодействия и передачи сообщений между высокопроизводительными вычислительными узлами.

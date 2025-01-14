@@ -1,0 +1,1 @@
+Scribus доступен для пользователей Linux, UNIX, OS X, OS2, eCS, Haiku и Windows и распространяется на условиях GNU General Public License.

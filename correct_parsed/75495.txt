@@ -1,0 +1,3 @@
+Java Agent Development Framework___664
+
+Java Agent Development Framework   программная среда разработки мультиагентных систем и приложений, поддерживающая FIPAстандарты для интеллектуальных агентов.

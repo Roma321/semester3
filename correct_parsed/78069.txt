@@ -1,0 +1,1 @@
+Kerberos 5 The Kerberos Network Authentication Service  , уточняет некоторые аспекты RFC 1510, и намерен использоваться для более подробного и четкого описания

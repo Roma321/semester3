@@ -1,0 +1,1 @@
+AJAX стал особенно популярен после использования его компанией Google в сервисах Gmail, Google Maps и Google Suggest.

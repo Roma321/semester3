@@ -1,0 +1,1 @@
+POSIX  Portable Operating System Interface for Computer Environment   интерфейс переносимой операционной системы, стандарт POSIX разработанный в 1988 г. IEEE набор стандартов для UNIX, описывающих интерфейсы этой ОС.

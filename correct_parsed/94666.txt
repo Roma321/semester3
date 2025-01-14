@@ -1,0 +1,1 @@
+Winsock API  Windows Sockets API  API гнёзд Windows интерфейс прикладного программирования  для Internet, разрабатываемый ассоциацией WinSock Labs . Служит для связи между прикладными программами клиента Windows и протоколом TCPIP.

@@ -1,0 +1,3 @@
+Independent Computing Architecture___1874
+
+Independent Computing Architecture   закрытый протокол для сервера приложений, разработанного компанией Citrix Systems.

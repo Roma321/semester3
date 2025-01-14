@@ -1,0 +1,1 @@
+JUnit был портирован на другие языки, включая PHP , C , Python , Fortran , Delphi , Free Pascal , Perl , C , Flex , JavaScript , COS .

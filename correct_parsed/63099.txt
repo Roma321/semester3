@@ -1,0 +1,1 @@
+Digital Command Language  язык DCL стандартный командный язык в ОС VMS на компьютерах VAX корпорации Digital.

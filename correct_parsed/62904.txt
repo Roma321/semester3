@@ -1,0 +1,1 @@
+Detailed Network Interface , включающий в себя API сокетов на основе сокетов 4.4BSD и помеченный устаревшим XOpen Transport Interface .

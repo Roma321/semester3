@@ -1,0 +1,1 @@
+Windows Server 2003 для IA64, 64разрядная версия Windows XP и Windows 2000 Advanced Server Limited Edition, предназначенные для семейства процессоров Intel Itanium, поддерживают EFI, определённый для данной платформы спецификацией DIG64.

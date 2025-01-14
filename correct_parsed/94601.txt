@@ -1,0 +1,1 @@
+Windows driver API basics  Статья об основах разработки драйверов для звуковых карт, таких как WDM ASIO, MME, DirectX и т. д.

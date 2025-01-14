@@ -1,0 +1,1 @@
+GAL  Generic Array Logic  общий логический массив, GALлогика разработанная фирмой Lattice Semiconductor разновидность PAL, базирующаяся на ячейках EEPROMпамяти.

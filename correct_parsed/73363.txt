@@ -1,0 +1,1 @@
+IPP  1. Internet Presence Provider  провайдер, обеспечивающий присутствие в Internet2. см. Internet Printing Protocol.

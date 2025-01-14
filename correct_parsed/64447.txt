@@ -1,0 +1,1 @@
+Entperise Pack for Eclipse  коллекция надстроек и расширений Eclipse для J2EEразработки, ориентированная на стек WebLogic.

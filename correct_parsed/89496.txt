@@ -1,0 +1,1 @@
+Single Edge Processor Package  конструктив процессора с краевым разъёмом используется в процессорах Celeron.

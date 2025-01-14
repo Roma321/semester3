@@ -1,0 +1,1 @@
+CHRP  Common Hardware Reference Platform  общая аппаратная платформа, спецификация  CHRP открытый стандарт, разработанный альянсом AppleIBMMotorola для ПК на базе процессоров PowerPC.

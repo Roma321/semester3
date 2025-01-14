@@ -1,0 +1,3 @@
+Connected Limited Device Configuration___4048
+
+Connected Limited Device Configuration   стандарт конфигурации Java ME для подключаемых к сети устройств с ограниченными вычислительными возможностями, таких как мобильные телефоны или пейджеры.

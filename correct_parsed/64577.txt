@@ -1,0 +1,1 @@
+error control  контроль ошибок, защита от ошибок см. также CRC, error protection, error recovery, hardware error, LRC, system error, VRC.

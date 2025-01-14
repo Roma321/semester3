@@ -1,0 +1,3 @@
+Pegasos___6823
+
+Pegasos  материнская плата на базе процессора PowerPC G3G4, имеет 3 слота PCI, 1 слот AGP, два порта Ethernet , USB, DDR, AC97совместимый звук и контроллер Firewire.

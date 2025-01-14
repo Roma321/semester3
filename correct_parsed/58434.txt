@@ -1,0 +1,3 @@
+Background Intelligent Transfer Service___5428
+
+Background Intelligent Transfer Service   компонент операционной системы Windows , фоновая интеллектуальная служба передачи файлов между клиентом и HTTPсервером, задействует неиспользуемую часть пропускной способности сети.

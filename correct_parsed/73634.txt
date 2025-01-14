@@ -1,0 +1,1 @@
+IRIST SLM может быть интегрирована с различными электрооптическимиинфракрасными  системами наведения и радарами АФАР, такими как Hensoldt TRML4D, Thales Ground Master 200 MMC, CEA CEAFAR и SAAB Giraffe 4A.

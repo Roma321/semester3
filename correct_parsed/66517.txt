@@ -1,0 +1,1 @@
+generalized view  обобщённый вид, обобщённое представление пример This diagram shows a high level generalized view of the basic components  на этой диаграмме основные компоненты показаны в сильно обобщенном виде.

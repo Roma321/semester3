@@ -1,0 +1,3 @@
+KWin___3053
+
+KWin  оконный менеджер для X Window System, на данный момент находится в процессе перехода на Wayland compositor.

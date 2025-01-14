@@ -1,0 +1,3 @@
+Infostick___985
+
+InfoStick  прототип беспроводного модуля Bluetooth, выполненного в форм факторе карт памяти Memory Stick.

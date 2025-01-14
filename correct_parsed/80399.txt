@@ -1,0 +1,1 @@
+Lightning   название проекта Mozilla Foundation по разработке расширения, которое добавляет в Mozilla Thunderbird функции календаря и планировщика.

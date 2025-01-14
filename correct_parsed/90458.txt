@@ -1,0 +1,1 @@
+STM1  Synchronous Transport Module level 1  синхронный транспортный модуль уровня 1 обозначение каналов в сетях SDH.

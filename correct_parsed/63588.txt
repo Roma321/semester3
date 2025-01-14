@@ -1,0 +1,1 @@
+DPMS  1. DOS Protected Mode Services  стандарт DPMS стандарт фирмы Novell на управление памятью, полностью совместимый с DPMI.

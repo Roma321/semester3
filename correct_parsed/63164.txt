@@ -1,0 +1,1 @@
+DIOD8 8mA Digital OpenDrain InputOutput buffer  цифровой входнойвыходной буфер с открытым истоком на ток 8 мА

@@ -1,0 +1,1 @@
+DSRC  Dedicated Short Range Communications  специализированная связь на коротких расстояниях, спецификация  DSRC разработана организацией ASTM International на основе протокола 802.11а.

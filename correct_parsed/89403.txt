@@ -1,0 +1,1 @@
+SIGKDD  Special Interest Group on Knowledge Discovery in Data and Data Mining  группа SIGKDD созданная в 1998 г. группа в составе ASM, занимается вопросами выявления знаний и глубинного анализа данных .Англорусский словарь компьютерных терминов

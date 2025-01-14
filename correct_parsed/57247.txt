@@ -1,0 +1,1 @@
+AMD использует HyperTransport как часть проприетарной архитектуры Direct Connect Architecture в своей линейке процессоров Opteron, Athlon 64 и Phenom.

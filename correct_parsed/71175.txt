@@ -1,0 +1,3 @@
+Image Packaging System___328
+
+Image Packaging System IPS или pkg  кроссплатформенная система управления пакетами, созданная сообществом OpenSolaris совместно с корпорацией Sun Microsystems.

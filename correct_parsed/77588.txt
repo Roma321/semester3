@@ -1,0 +1,1 @@
+KBibTeX написан с использованием фреймворка KDE, но не является частью официального KDE Software Compilation или KOffice.

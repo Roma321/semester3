@@ -1,0 +1,29 @@
+Inв
+Onна
+Atу
+Nearрядом
+Underпод
+Overнад
+Belowниже
+Aboveвыше
+Roundaroundвокруг
+Throughчерез
+Amongсреди
+Betweenмежду
+Behindпозади
+In front ofнапротив
+Alongпо
+Acrossсквозь
+Upвверх
+Downвниз
+Oppositeнапротив друг друга
+Ontoна
+Offc,со
+Intoв,если in применяется в случаях по типу "мяч лежит в ящике",то into применяется в случае "мяч положили в ящик"
+Out ofиз
+Pastмимо
+Next toByBesideрядом с,следующий за
+Againstпротив
+Overнад
+Fromtoиз точки А в точку Б
+Towardsк

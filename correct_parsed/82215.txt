@@ -1,0 +1,1 @@
+MicroLan также является интерфейсом для микроконтроллеров, таких, как Atmel AVR, Parallax BASIC Stamp и семейство Microchip PIC.

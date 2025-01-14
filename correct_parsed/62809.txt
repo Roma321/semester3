@@ -1,0 +1,1 @@
+DEN  DirectoryEnabled Network  сеть, поддерживающая службу каталога спецификация DEN спецификация, разработанная группой DMTF по инициативе Cisco и Microsoft.

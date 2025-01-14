@@ -1,0 +1,1 @@
+HPGL   HewlettPackard Graphics Language  язык HPGL язык компании HewlettPackard для устройств графического вывода.

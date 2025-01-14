@@ -1,0 +1,1 @@
+directdial modem connection  соединение через модем путем прямого набора номера см. также dialup connection, dialup line, modem.

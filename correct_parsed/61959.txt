@@ -1,0 +1,1 @@
+CSMACA  Carrier Sense Multiple Access with Collision Avoidance  множественный доступ с контролем несущей и уклонением от  столкновений см. также CSMACD.

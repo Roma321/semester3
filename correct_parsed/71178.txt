@@ -1,0 +1,1 @@
+ImageReady в комплект поставки Photoshop с 2.0 до 9.0 . Начиная с Photoshop 7, Adobe не изменил номер версии в ImageReady 7.0.

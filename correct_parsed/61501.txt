@@ -1,0 +1,1 @@
+Common LISP  Common List Processing  язык Common LISP стандартизованный в 1981 г. консорциумом компаний диалект языка программирования LISP.

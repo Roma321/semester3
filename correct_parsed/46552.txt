@@ -1,0 +1,1 @@
+5 июля 2021 года Khara объявила о наборе разработчиков трёхмерной графики со знанием следующих инструментов и приложений TypeScript, React, MaterialUI, Next.js, NestJS, OpenAPI или GraphQL, TypeORM или Prisma, axios, Jest, ESLint, Prettier, webpack, Electron, AG Grid, MySQL и Redis.

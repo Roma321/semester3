@@ -1,0 +1,1 @@
+ADSI Scripting Primer Архивная копия от 14 декабря 2005 на Wayback Machine  раздел Windows 2000 Scripting Guide, посвящённый использованию ADSI для автоматизации администрирования систем Windows.

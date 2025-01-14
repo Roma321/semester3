@@ -1,0 +1,1 @@
+Fibre Channel Protocol   транспортный протокол , инкапсулирующий протокол SCSI по сетям Fibre Channel.

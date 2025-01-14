@@ -1,0 +1,3 @@
+Hypertext Application Language___1623
+
+Hypertext Application Language   это разрабатываемый  стандарт для определения гипермедиа, таких как ссылки на внешние ресурсы в форматах JSON или XML.

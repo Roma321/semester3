@@ -1,0 +1,1 @@
+bruteforce  решать в лоб, методом грубой силы Пример Their ciphers are a little oldfashioned, and we can bruteforce them  их шифры несколько устарели и мы можем вскрывать их в лоб .Англорусский словарь компьютерных терминов

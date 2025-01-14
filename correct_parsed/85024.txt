@@ -1,0 +1,1 @@
+OTP  1. OneTime Programmable memory  одноразово  программируемая память разновидность ПЗУ, используемая в микроконтроллерах2. см. onetime password.

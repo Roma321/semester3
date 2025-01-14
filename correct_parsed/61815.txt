@@ -1,0 +1,1 @@
+CPIC 2.0  Common Programming Interface for Communications  общий программный интерфейс для коммуникаций интерфейс, разработанный ассоциацией CIW и IBM.

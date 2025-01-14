@@ -1,0 +1,1 @@
+MFC  Microsoft Foundation Classes  библиотека базовых классов  корпорации Microsoft, библиотека MFC выпущена в 1992 г., используется в MS Visual C в качестве высокоуровневых интерфейсов к Windows API.

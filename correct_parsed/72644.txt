@@ -1,0 +1,3 @@
+International Terrestrial Reference Frame___1303
+
+International Terrestrial Reference Frame   реализация земной системы координат ITRS с помощью декартовых координат ряда опорных пунктов на Земле.

@@ -1,0 +1,1 @@
+IEEE 1284.11997 Transport Independent PrinterSystem Interface a protocol for returning printer configuration and status  стандартизованный метод получения информации о состоянии принтера

@@ -1,0 +1,1 @@
+SVID  System V Interface Definition  стандарт SVID стандарт на системные вызовы ОС Unix System V .Англорусский словарь компьютерных терминов

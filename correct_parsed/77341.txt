@@ -1,0 +1,3 @@
+Karel___4199
+
+Karel  учебный язык программирования, созданный в 1981 году Ричардом Паттисом в своей книге Karel The Robot A Gentle Introduction to the Art of Programming.

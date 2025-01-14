@@ -1,0 +1,1 @@
+CopyTrans HEIC также позволяет вставлять HEIFфайлы в документы Microsoft Office, печатать HEIFизображения и конвертировать их в JPEG.

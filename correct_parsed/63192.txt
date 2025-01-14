@@ -1,0 +1,1 @@
+Disc Channel  канал, который позволяет запускать игры с дисков Wii Optical Disc и GameCube Optical Disc.

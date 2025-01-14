@@ -1,0 +1,1 @@
+22 декабря 2006 исходный код Java ME был выпущен под лицензией GNU General Public License, проект получил название phoneME.

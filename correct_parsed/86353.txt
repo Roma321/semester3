@@ -1,0 +1,3 @@
+Portable Document Format___10291
+
+Portable Document Format   межплатформенный открытый формат электронных документов, изначально разработанный фирмой Adobe Systems в 1992 году с использованием ряда возможностей языка PostScript.

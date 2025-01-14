@@ -1,0 +1,1 @@
+UniBeast был обновлен для поддержки macOS Catalina, но релиза MultiBeast с поддержкой Catalina еще не было.

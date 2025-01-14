@@ -1,0 +1,1 @@
+Integrated Performance Primitives  Программная библиотека для обработки мультимедиа данных от Intel.

@@ -1,0 +1,1 @@
+12 апреля 2010 года в составе релиза Visual Studio 2010 и .NET Framework 4.0 был представлена Entity Framework 4.0.

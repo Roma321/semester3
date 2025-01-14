@@ -1,0 +1,1 @@
+IBM Lotus Enterprise Integrator  интеграционный сервер, обеспечение для приложений Lotus NotesDomino подключения и синхронизации с СУБД Microsoft SQL Server, Oracle Database, Sybase SQL Server

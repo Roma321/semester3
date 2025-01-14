@@ -1,0 +1,1 @@
+Quick Sync впервые появилась в процессорах Intel начиная с архитектуры Sandy Bridge , при этом отсутствует на малобюджетных CPU Sandy Bridge Pentium и Celeron.

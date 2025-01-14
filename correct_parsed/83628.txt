@@ -1,0 +1,3 @@
+.NET Compact Framework___4198
+
+Microsoft .NET Compact Framework   это версия .NET Framework, которая разработана для запуска приложений на устройствах, основанных на платформе Windows CE, таких как PDA, мобильные телефоны, заводские контроллеры и других.

@@ -1,0 +1,1 @@
+BDR  1. Bandwidth on Demand Routing  выделение пропускной способности в зависимости от маршрутизации см. также BACP, bandwidth, BOND2.

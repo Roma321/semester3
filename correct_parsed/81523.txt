@@ -1,0 +1,1 @@
+Manager.createRealizedPlayer неявно создаёт DataSource из полученного URL файла, с которым в дальнейшем работает объект Player.

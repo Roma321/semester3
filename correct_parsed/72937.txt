@@ -1,0 +1,1 @@
+inttypes.h Целочисленные типы фиксированного размера  основные определения, The Single UNIX Specification, выпуск 7 от The Open Group

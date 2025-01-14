@@ -1,0 +1,1 @@
+LibreOffice Basic  это язык программирования, аналогичный Microsoft Visual Basic для приложений , но основанный на OpenOffice Basic.

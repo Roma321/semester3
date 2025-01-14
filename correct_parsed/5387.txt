@@ -1,0 +1,1 @@
+14 августа 2012 года Microsoft объявила об обновлённом SkyDrive, где были заметно изменены SkyDrive.com, SkyDrive для рабочего стола Windows и macOS, а также API SkyDrive в рамках Live Connect.

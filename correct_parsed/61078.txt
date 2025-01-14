@@ -1,0 +1,1 @@
+Chromium выпускается для операционных систем Microsoft Windows, начиная с XP SP2 MacOS, начиная с 10.5.6., и Linux , а именно, Arch Linux, Debian, Fedora, Gentoo Linux, openSUSE, Ubuntu и производные, Maemo 5  и другие дистрибутивы.

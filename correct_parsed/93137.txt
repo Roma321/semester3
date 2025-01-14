@@ -1,0 +1,1 @@
+UniOfficeEtersoft  транслятор COMобъектов MS Office, позволяет использовать OpenOffice в приложениях, производящих выгрузку в MS Office.

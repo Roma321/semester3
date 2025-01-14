@@ -1,0 +1,1 @@
+intercommunication  1. взаимодействие,  связь пример Connections between the components only indicates intercommunication  соединения между компонентами  показывают только их взаимодействие 2. связь, система внутренней связи например, бортовое переговорное устройство.

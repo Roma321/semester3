@@ -1,0 +1,1 @@
+Java Transaction Service  спецификация для построения менеджера транзакций который отображает на Object Management Group  Object Transaction Service , используемый в CORBA архитектуры.

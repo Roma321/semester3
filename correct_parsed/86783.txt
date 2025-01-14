@@ -1,0 +1,1 @@
+PSN  1. Packet Switch Node  узел коммутации пакетов компьютер, управляющий маршрутизацией пакетов в сети с коммутацией пакетов 2. см. packet switching network3. см. Processor Serial Number.

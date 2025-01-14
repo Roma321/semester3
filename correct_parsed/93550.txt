@@ -1,0 +1,1 @@
+Vbscript  Visual Basic Script  язык VBScript язык для написания сценариев, разработанный корпорацией Microsoft.

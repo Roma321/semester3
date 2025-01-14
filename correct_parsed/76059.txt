@@ -1,0 +1,1 @@
+JIT используется в реализациях Java , JavaScript, .NET Framework, в одной из реализаций Python  PyPy.

@@ -1,0 +1,1 @@
+25 июля 2013 года Microsoft выпустила предварительную версию для Internet Explorer 11 для Windows 7 и Windows Server 2008 R2 для разработчиков.

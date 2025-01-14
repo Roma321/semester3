@@ -1,0 +1,1 @@
+21 марта 2011 года на базу LMDE была переведена редакция Linux Mint 10 Xfce Edition, планируется перевод Linux Mint 10 Fluxbox Edition.

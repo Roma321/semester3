@@ -1,0 +1,1 @@
+PKCS  Public Key Cryptography Standard  стандарт шифрования с открытым ключом, стандарт PKCS см. также public key, publickey cryptography.

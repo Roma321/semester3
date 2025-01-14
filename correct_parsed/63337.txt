@@ -1,0 +1,1 @@
+DMAslave  adapter   адаптер , работающий как второй равноправный абонент шины ЭВМ в режиме ПДП второй равноправный SCSIадаптер ПДП см. также busmaster  adapter, secondparty DMA adapter.

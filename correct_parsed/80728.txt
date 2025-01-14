@@ -1,0 +1,1 @@
+Logical Domains начиная с версии 2.0 работает только на процессорах UltraSPARC T2T2, SPARC T3T5, SPARC M5M6.

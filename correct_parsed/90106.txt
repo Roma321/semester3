@@ -1,0 +1,1 @@
+SPBV создает деревья кратчайшего пути, но также и взаимодействует с наследуемыми мостами, выполняющими Rapid Spanning Tree Protocol и Multiple Spanning Tree Protocol.

@@ -1,0 +1,1 @@
+IDL  1. Interface Definition Language  язык описания интерфейса используется для описаний интерфейса в RPC2.

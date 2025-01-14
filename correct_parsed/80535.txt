@@ -1,0 +1,1 @@
+Linux работает на множестве процессоров различных архитектур, таких как x86, x8664, PowerPC, ARM, RISCV, Alpha AXP, SPARC, Motorola 680x0, SuperH, IBM System390, MIPS, PARISC, AXIS CRIS, Renesas M32R, Atmel AVR32, Renesas H8300, NEC V850, Tensilica Xtensa, Эльбрус и многих других.

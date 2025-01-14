@@ -1,0 +1,1 @@
+Fast Ethernet базируется на методе доступа IOBaseT CSMACD  и использует кабели lOOBaseFX и lOOBaseTX.

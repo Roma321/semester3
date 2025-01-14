@@ -1,0 +1,3 @@
+AGESA___2359
+
+AMD Generic Encapsulated Software Architecture   протокол начальной загрузки, предназначенный для инициализации устройств на материнских платах AMD64.

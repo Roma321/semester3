@@ -1,0 +1,1 @@
+Kdenlive пакеты свободно доступны для GNU  Linux, FreeBSD и Windows так же исходный код доступен для macOS в соответствии с условиями GNU General Public License версии 2 или более поздней версии.

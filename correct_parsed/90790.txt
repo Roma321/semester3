@@ -1,0 +1,1 @@
+Swift во время разработки брал идеи структуры языка из Python, а также из ObjectiveC, Rust, Haskell, Ruby, C, CLU.

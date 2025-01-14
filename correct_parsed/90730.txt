@@ -1,0 +1,1 @@
+supervised training algorithm  управляемый алгоритм обучения  с участием оператора см. также BPE, LVQ, PNN, RCE, STLVQ.

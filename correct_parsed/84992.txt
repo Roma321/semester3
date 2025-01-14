@@ -1,0 +1,1 @@
+OSS основан на Linux Sound Driver и в настоящее время работает на большом числе платформ Linux, FreeBSD, OpenSolaris и т. д.

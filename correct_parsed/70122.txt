@@ -1,0 +1,3 @@
+IDEF1X___14821
+
+Integration DEFinition for information modeling  язык моделирования данных для разработки семантики моделей данных.

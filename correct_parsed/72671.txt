@@ -1,0 +1,3 @@
+Internet Direct___1977
+
+Internet Direct   набор компонентов для работы с наиболее популярными сетевыми протоколами в среде Delphi, C Builder и Kylix, в частности, HTTP, FTP, Gopher, TCP, UDP, POP3, SMTP, NNTP, Ident, IRC, IMAP4, Finger, FSP, SOCKS, LPR, SNPP, SNTP.

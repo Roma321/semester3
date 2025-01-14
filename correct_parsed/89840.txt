@@ -1,0 +1,1 @@
+Snobol  String Oriented Symbolic Language  Снобол язык программирования Снобол разработан в 1962 г. в Bell Telephone Laboratories . Символьный язык, ориентированный на обработку строк текста.

@@ -1,0 +1,1 @@
+19 ноября 2007 года была выпущена GNU Affero General Public License v3  GPLv3 с изменениями на основе Affero General Public License v1, выпущенной в 2002 году Affero Inc. на основе GNU GPLv2.

@@ -1,0 +1,1 @@
+Windows и Windows Phone используют сервис Network Connectivity Status Indicator, который запрашивает файл с сайта, принадлежащего Microsoft, ожидая получить предопределённое содержимое.

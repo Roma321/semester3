@@ -1,0 +1,3 @@
+ITF14___1047
+
+ITF14   реализация штрихкода interleaved 2 of 5 для кодирования Global Trade Item Number.

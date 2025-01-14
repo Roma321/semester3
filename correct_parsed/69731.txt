@@ -1,0 +1,3 @@
+IBM Power Systems___3602
+
+IBM Power Systems  имя линейки серверов, основанной на архитектуре POWER.

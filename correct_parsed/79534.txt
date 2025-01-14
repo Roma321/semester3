@@ -1,0 +1,1 @@
+KPresenter  несложная программа для составления презентаций, подобная Microsoft PowerPoint, LibreOffice Impress и OpenOffice.org Impress, с базовым набором функций оформления и шаблонов.

@@ -1,0 +1,1 @@
+Keybase позволяет публично связывать Твиттер, GitHub, Facebook, Reddit и HackerNews профили с публичными ключами, наряду с Bitcoin, Zcash, Stellar кошельками и вебсайтами.

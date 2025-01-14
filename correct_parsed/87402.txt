@@ -1,0 +1,1 @@
+RAMDAC Random Access Memory DigitaltoAnalog Converter  ОЗУ с цифроаналоговым преобразователем, ЗУПВЦАП микросхема, используемая в некоторых видеоадаптерах.

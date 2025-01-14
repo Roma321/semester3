@@ -1,0 +1,3 @@
+Crystallographic Information File___546
+
+Crystallographic Information File  является стандартным текстовым форматом файла, который используется для описания кристаллографической информации.

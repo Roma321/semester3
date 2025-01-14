@@ -1,0 +1,1 @@
+IntelliSense первый раз появилась в Visual Basic 5.0 Control Creation Edition в 1996 году, который являлся публично доступным прототипом Visual Basic 5.0.

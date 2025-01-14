@@ -1,0 +1,1 @@
+GHI Electronics предлагает отладочные платы Embedded Master Development System, основанные на микроконтроллерах ARM7 производителя NXP, работающие на тактовой частоте 74 МГц.

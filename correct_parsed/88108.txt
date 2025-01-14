@@ -1,0 +1,1 @@
+robust  надёжный, устойчивый к ошибкам пример In order to make Java technology more robust, some fundamental changes were made to the language definition  чтобы сделать технологию Java более устойчивой к ошибкам, в язык были внесены серьёзные изменения.

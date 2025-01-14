@@ -1,0 +1,1 @@
+Spsm  Single Port, Single Memory  один порт  одна память однопортовая память с общей шиной см. также MPMM, MPSM, SPMM, XPXM.

@@ -1,0 +1,1 @@
+XPG3  XOpen Portability Guide  руководство консорциума XOpen по  переносимости один из базовых документов с описанием UNIXинтерфейсов для Common Applications Environment , выпущенный под эгидой консорциума XOpen.

@@ -1,0 +1,1 @@
+Mrtci  Microsoft RealTime Compression Interface  стандарт, формат MRTCI стандарт на сжатие, используемый в программе SuperStor .Англорусский словарь компьютерных терминов

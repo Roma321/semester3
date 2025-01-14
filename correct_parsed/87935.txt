@@ -1,0 +1,1 @@
+RFC 5676  Definitions of Managed Objects for Mapping SYSLOG Messages to Simple Network Management Protocol  Notifications, October 2009 Определения управляемых объектов для механизма трансляции сообщений Syslog в уведомления протокола простого управления сетями 

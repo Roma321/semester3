@@ -1,0 +1,1 @@
+UPA  Ultra Port Architecture высокоскоростной пакетный коммутатор, используемый в архитектуре Ultra компьютеров фирмы SUN Microsystems.

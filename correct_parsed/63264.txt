@@ -1,0 +1,3 @@
+Distributed File System___6585
+
+Distributed File System   компонент Microsoft Windows, использующийся для упрощения доступа и управления файлами, физически распределёнными по сети.

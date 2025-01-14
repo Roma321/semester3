@@ -1,0 +1,1 @@
+FDC  Floppy Disk Controller  контроллер накопителя на гибких магнитных дисках, контроллер НГМД см. также controller, disk controller.

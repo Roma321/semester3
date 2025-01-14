@@ -1,0 +1,1 @@
+bit  synchronous mapping  битовое  преобразованиеотображение, передача по битам  см. также asynchronous mapping.

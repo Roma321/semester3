@@ -1,0 +1,1 @@
+TWAIN  Technology Without An Interesting  Name  спецификация  TWAIN программный интерфейс  для приложений, работающих со сканерами, разработанный фирмами Aldus, Caere, HewlettPackard, Kodak и Logitech .Англорусский словарь компьютерных терминов

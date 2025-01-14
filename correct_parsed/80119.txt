@@ -1,0 +1,3 @@
+Layer 2 Forwarding Protocol___2038
+
+Layer 2 Forwarding Protocol    один из протоколов туннелирования, разработанный компанией Cisco Systems для создания виртуальных частных сетей связи через Интернет.

@@ -1,0 +1,1 @@
+JST  является спецификацией для построения менеджер транзакций, который отображает на Object Management Group  Service Object Transaction , используемый в Common Request Object Broker Architecture  архитектуре.

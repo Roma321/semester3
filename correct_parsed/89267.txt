@@ -1,0 +1,1 @@
+Shareaza  свободный файлообменный клиент и менеджер закачек для Windows с поддержкой протоколов Gnutella, Gnutella2, eDonkey2000, BitTorrent, Direct Connect, FTP и HTTP.

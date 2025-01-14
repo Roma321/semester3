@@ -1,0 +1,3 @@
+Microsoft Dynamics AX___4900
+
+Microsoft Dynamics AX   одно из программных решений корпорации Microsoft, сейчас именуемое  Dynamics 365, для автоматизации управления предприятием , поставляемых подразделением Microsoft Dynamics.

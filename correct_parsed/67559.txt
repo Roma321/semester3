@@ -1,0 +1,1 @@
+Hammer Architecture  название по первым ядрам процессоров, поддерживавших x8664  AMD Clawhammer  и AMD Sledgehammer .

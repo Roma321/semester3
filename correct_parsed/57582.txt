@@ -1,0 +1,1 @@
+Apple начал включать драйверы только для чтения HFS  в Mac OS X 10.6 версии для использования в Windows XP, Windows Vista и Windows 7.

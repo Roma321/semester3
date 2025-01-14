@@ -1,0 +1,1 @@
+Instructions per cycle или instructions per clock  компьютерный термин, среднее количество исполняемых машинных инструкций за такт.

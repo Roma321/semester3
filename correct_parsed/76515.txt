@@ -1,0 +1,1 @@
+JTS реализует геометрическую модель и API, определенные консорциумом OpenGIS в Simple Features Specification для SQL.

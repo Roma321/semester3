@@ -1,0 +1,1 @@
+DRW  Drawing Web Format  формат DRW разработан фирмой Autodesk для передачи векторных чертежей по Internet.

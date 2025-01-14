@@ -1,0 +1,1 @@
+Irlap  Infrared Link Access Protocol  протокол IrLAP протокол разработан IrDA для связи двух устройств через инфракрасные порты.

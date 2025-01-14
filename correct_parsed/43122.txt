@@ -1,0 +1,1 @@
+4 httpstranslate.google.ru?hlrutabwT  стандартный гугл транслит для перевода больших текстов.

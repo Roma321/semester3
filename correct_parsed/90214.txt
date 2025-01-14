@@ -1,0 +1,1 @@
+Spyder  opensource IDE для Python под лицензией MIT, бесплатная, доступна на платформах Windows, Mac OS X и Linux.

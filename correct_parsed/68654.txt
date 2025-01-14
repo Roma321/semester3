@@ -1,0 +1,1 @@
+Hubble Ultra Deep Field Catalog   содержит информацию о порядка 10000 галактик, попавших в область Hubble Ultra Deep Field.

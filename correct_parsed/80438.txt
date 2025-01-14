@@ -1,0 +1,1 @@
+LIM  1. Live Insertion Module  модуль, предусматривающий его установкуудаление без отключения питания 2. LotusIntelMicrosoft  см. LIM memory.

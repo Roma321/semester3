@@ -1,0 +1,1 @@
+IPI  1. Intel Processor Integrator  интегратор процессоров Intel статус, присваиваемый Intel небольшим компаниям, собирающим от 10 до 1300 компьютеров в месяц2. см. interprocessor interrupt.

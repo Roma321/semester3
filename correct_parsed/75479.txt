@@ -1,0 +1,1 @@
+Jaspersoft Studio  является портом iReport под Eclipse создан той же организацией, которая создала JasperReports

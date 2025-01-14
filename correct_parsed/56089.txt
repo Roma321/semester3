@@ -1,0 +1,1 @@
+ACAP  Application Configuration Access Protocol  протокол доступа к конфигурированию приложения, протокол ACAP протокол, усиливающий протокол IMAP.

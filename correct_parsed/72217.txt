@@ -1,0 +1,1 @@
+Insurance Applications  приложения для страховых компаний на основе продуктов компаний AdminServer и Skywire.

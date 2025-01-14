@@ -1,0 +1,1 @@
+3ivx также разработала HTTP Live Streaming Client SDK for Windows 8 and Windows 8 Phones для воспроизведения распространяющегося по HLS контента в Windows 8 Modern UI приложениях.

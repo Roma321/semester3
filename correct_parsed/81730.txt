@@ -1,0 +1,1 @@
+massively parallel system   вычислительная система  с массовым параллелизмом см. также MPP, parallel computer, SMP, SSP.

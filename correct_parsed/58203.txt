@@ -1,0 +1,1 @@
+Automation Device Specification  набор программных средств компании Beckhoff для организации обмена данными между TwinCATWindowsустройствами.

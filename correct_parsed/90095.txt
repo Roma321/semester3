@@ -1,0 +1,3 @@
+SPARC TSeries___6460
+
+SPARC TSeries  линейка UNIXсерверов, основанных на архитектуре SPARC V9, разработанная корпорацией Oracle.

@@ -1,0 +1,1 @@
+SSignal strength  сила сигнала, I Interference  интерференция , N  Noise static  статический шум, шум эфира, P  Propagation disturbance  проблемы при распространении сигнала, O  Overall merit  общая оценка.

@@ -1,0 +1,3 @@
+JBenchmark___7959
+
+JBenchmark  серия тестов производительности  для платформы Java ME, разработанных венгерской компанией Kishonti Informatics LP.

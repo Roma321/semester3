@@ -1,0 +1,3 @@
+.NET Framework___30008
+
+.NET Framework  программная платформа, выпущенная компанией Microsoft в 2002 году.

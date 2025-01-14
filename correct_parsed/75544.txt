@@ -1,0 +1,3 @@
+JavaScript Style Sheets___3325
+
+JavaScript Style Sheets   язык таблиц стилей, представленный и предложенный Netscape Communications в 1996 году для того, чтобы обеспечить наилучшие возможности для оформления интернетстраниц.

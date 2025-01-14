@@ -1,0 +1,1 @@
+operational testing  1. испытания в реальных условиях см. также benchmark testing, boundary testing, compatibility testing, conformance testing, exhaustive testing, final testing, functional testing, manual testing, stress testing2. опытная эксплуатация см. также maintenance, OM, OAM.Англорусский словарь компьютерных терминов

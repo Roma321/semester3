@@ -1,0 +1,1 @@
+ITSEC  The European Information Technology Security Evaluation Criteria  стандарт ITSEC европейский стандарт для оценки безопасности компьютерных систем.

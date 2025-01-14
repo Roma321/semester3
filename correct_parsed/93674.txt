@@ -1,0 +1,1 @@
+VHDL  Very high speed integrated circuit Hardware Description Language  язык VHDL ЯВУ, разработан в 80е годы по заказу МО США , имеет Adaподобный синтаксис.

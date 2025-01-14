@@ -1,0 +1,1 @@
+BP  1. Base Pointer  указатель базы регистр в процессорах 80х86 2. base point  базовая точка3. см. backpropagation.

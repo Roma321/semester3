@@ -1,0 +1,1 @@
+httpbear.alienbase.nlmirrorsslackwarelivelatestslackware64liveplasma5current.iso и позволяет запустить сборку прямо в оперативной памяти, не устанавливая на жёсткий диск.

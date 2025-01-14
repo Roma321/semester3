@@ -1,0 +1,1 @@
+IIS считает файлом по умолчанию default.htm, а некоторые вебсерверы  сразу набор index.html, index.htm, index.php, index.php3, index.phtml, index.shtml, default.htm, default.html.

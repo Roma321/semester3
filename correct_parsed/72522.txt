@@ -1,0 +1,3 @@
+Interface Builder___2787
+
+Interface Builder  приложение от Apple для операционной системы macOS.

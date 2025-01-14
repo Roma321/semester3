@@ -1,0 +1,1 @@
+Picture Viewer  это компонент QuickTime для операционных систем Microsoft Windows и Mac OS 8 и Mac OS 9.

@@ -1,0 +1,3 @@
+KBasic___2638
+
+KBasic  это RADсреда для программирования на диалекте Basicа, близкого к VB.NET, Visual Basic, Visual Basic for Applications и Java, синтаксически полностью совместимый с VB6, VBA и QBasic.

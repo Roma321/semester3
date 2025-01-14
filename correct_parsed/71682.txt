@@ -1,0 +1,3 @@
+Industry Foundation Classes___2830
+
+Industry Foundation Classes   открытый стандарт для формата представления данных BIM , используется в САПР.

@@ -1,0 +1,1 @@
+27 октября 2011 года Apple открыла исходный код, который доступен в официальном репозитории проекта Apple Lossless Audio Codec  на Mac OS Forge под лицензией Apache 2.0 license.

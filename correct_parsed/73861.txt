@@ -1,0 +1,1 @@
+ISIS разрабатывался почти в то же время, когда Internet Engineering Task Force IETF разрабатывал схожий протокол  OSPF.

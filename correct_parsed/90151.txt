@@ -1,0 +1,1 @@
+SpiderMonkey был написан Бренданом Айком во время его работы в Netscape Communications, а позднее сделан открытым.

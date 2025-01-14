@@ -1,0 +1,1 @@
+Daggerfall Unity это другой проект с открытым исходным кодом, который воссоздаёт The Elder Scrolls II Daggerfall используя игровой движок Unity.

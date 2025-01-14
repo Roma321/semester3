@@ -1,0 +1,3 @@
+Intel Turbo Memory___1451
+
+Intel Turbo Memory  разработанная Intel Corporation технология на основе модулей NAND флэшпамяти.

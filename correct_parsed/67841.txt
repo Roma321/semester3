@@ -1,0 +1,1 @@
+Heat Flow and Physical Properties Package   зонд, предназначенный для измерения теплового потока под поверхностью Марса.

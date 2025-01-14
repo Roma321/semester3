@@ -1,0 +1,1 @@
+JT2Go включает плагины для пакета Microsoft Office, которые дают возможность вставлять 3Dмодели в формате JT в документы Microsoft Word, Excel и PowerPoint.

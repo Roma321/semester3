@@ -1,0 +1,1 @@
+MSDOS  Microsoft Disk Operating System  операционная система MSDOS однозадачная ОС, разработанная корпорациями Microsoft и IBM для первого 16разрядного ПК IBM PC в 1981 г.

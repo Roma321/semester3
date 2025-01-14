@@ -1,0 +1,1 @@
+SPX  1. Sequenced Packet Exchange  последовательный обмен пакетами протокол для установления диалога, применяемый в Novell NetWare.
